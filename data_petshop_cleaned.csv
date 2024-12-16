@@ -1,0 +1,1214 @@
+ID Transaksi,Tanggal Transaksi,Nama Barang,Kategori,Jumlah Terjual,Harga Satuan,Total Harga,Metode Pembayaran,Kategori_Encoded,Metode_Pembayaran_Encoded,Bulan Transaksi,Tahun Transaksi
+TX-20241001-001,2024-10-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,8,130000,1040000,Tunai,2,2,10,2024
+TX-20241006-001,2024-10-06,Trixie Cat Tunnel,Mainan,1,4435,4435,QRIS,1,0,10,2024
+TX-20240114-001,2024-01-14,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,2,4435,8870,Tunai,3,2,1,2024
+TX-20240707-001,2024-07-07,Life Cat Pouch - Kitten Chicken,Makanan,6,12024,72144,Transfer,2,1,7,2024
+TX-20240508-001,2024-05-08,Life Cat Pouch - Chicken Tuna Adult,Makanan,3,55833,167499,Tunai,2,2,5,2024
+TX-20240613-001,2024-06-13,Trixie Cat Scratching Post,Mainan,5,4435,22175,Tunai,1,2,6,2024
+TX-20240507-001,2024-05-07,Trixie Cat Scratching Post,Mainan,15,55833,837495,Transfer,1,1,5,2024
+TX-20241118-001,2024-11-18,Life Cat Pouch - Chicken Adult,Makanan,18,12024,216432,QRIS,2,0,11,2024
+TX-20240731-001,2024-07-31,Life Cat Pouch Dus,Makanan,10,130000,1300000,Transfer,2,1,7,2024
+TX-20240203-001,2024-02-03,Life Cat Tofu - Mango,Makanan,11,50000,550000,Tunai,2,2,2,2024
+TX-20240427-001,2024-04-27,Life Cat Can - Kitten Tuna,Makanan,8,250000,2000000,Tunai,2,2,4,2024
+TX-20240325-001,2024-03-25,Nutri-Vet Multivitamin Chewable,Obat Hewan,8,50000,400000,Transfer,3,1,3,2024
+TX-20240109-001,2024-01-09,Drontal Cat Dewormer,Obat Hewan,2,55833,111666,Tunai,3,2,1,2024
+TX-20241112-001,2024-11-12,Kong Classic Dog Chew Toy,Mainan,7,12024,84168,Transfer,1,1,11,2024
+TX-20240609-001,2024-06-09,Trixie Cat Scratching Post,Mainan,15,50000,750000,Transfer,1,1,6,2024
+TX-20240518-001,2024-05-18,Kong Classic Dog Chew Toy,Mainan,2,55833,111666,Tunai,1,2,5,2024
+TX-20240424-001,2024-04-24,Life Cat Pouch - Kitten Tuna,Makanan,5,130000,650000,Tunai,2,2,4,2024
+TX-20240809-001,2024-08-09,Trixie Cat Tunnel,Mainan,8,55833,446664,Tunai,1,2,8,2024
+TX-20240613-002,2024-06-13,Life Cat Tofu - Macha,Makanan,2,50000,100000,QRIS,2,0,6,2024
+TX-20241107-001,2024-11-07,EzyDog Chest Plate Harness for Dogs,Aksesoris,1,130000,130000,Tunai,0,2,11,2024
+TX-20240403-001,2024-04-03,Frontline Plus Flea & Tick Treatment,Obat Hewan,17,12024,204408,QRIS,3,0,4,2024
+TX-20240812-001,2024-08-12,Trixie Cat Laser Pointer,Mainan,17,50000,850000,QRIS,1,0,8,2024
+TX-20240421-001,2024-04-21,Life Cat Pouch Dus,Makanan,19,50000,950000,Transfer,2,1,4,2024
+TX-20240807-001,2024-08-07,Life Cat Pouch - Kitten Salmon,Makanan,19,55833,1060827,Transfer,2,1,8,2024
+TX-20241010-001,2024-10-10,Life Cat Can - Kitten Tuna,Makanan,9,12024,108216,QRIS,2,0,10,2024
+TX-20240531-001,2024-05-31,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,50000,350000,QRIS,0,0,5,2024
+TX-20240731-002,2024-07-31,Life Cat Can - Tuna,Makanan,10,55833,558330,Transfer,2,1,7,2024
+TX-20240801-001,2024-08-01,Kong Puppy Teething Stick,Mainan,1,4435,4435,QRIS,1,0,8,2024
+TX-20241018-001,2024-10-18,Life Cat Pouch - Kitten Chicken,Makanan,11,130000,1430000,Tunai,2,2,10,2024
+TX-20240406-001,2024-04-06,Life Cat Pouch - Kitten Salmon,Makanan,10,55833,558330,Transfer,2,1,4,2024
+TX-20240801-002,2024-08-01,Life Cat Can - Kitten Tuna,Makanan,17,4435,75395,Tunai,2,2,8,2024
+TX-20240705-001,2024-07-05,EzyDog Chest Plate Harness for Dogs,Aksesoris,15,130000,1950000,Transfer,0,1,7,2024
+TX-20241101-001,2024-11-01,Life Cat Pouch - Chicken Adult,Makanan,10,130000,1300000,Tunai,2,2,11,2024
+TX-20241101-002,2024-11-01,EzyDog Chest Plate Harness for Dogs,Aksesoris,4,4435,17740,Transfer,0,1,11,2024
+TX-20241110-001,2024-11-10,Life Cat Pouch Dus,Makanan,6,55833,334998,Transfer,2,1,11,2024
+TX-20240220-001,2024-02-20,Nutri-Vet Multivitamin Chewable,Obat Hewan,5,250000,1250000,Transfer,3,1,2,2024
+TX-20240322-001,2024-03-22,Life Cat Can - Tuna,Makanan,11,4435,48785,Tunai,2,2,3,2024
+TX-20240101-001,2024-01-01,Trixie Cat Laser Pointer,Mainan,12,4435,53220,Transfer,1,1,1,2024
+TX-20240910-001,2024-09-10,Life Cat Can - Tuna,Makanan,3,55833,167499,QRIS,2,0,9,2024
+TX-20241017-001,2024-10-17,EzyDog Chest Plate Harness for Dogs,Aksesoris,9,55833,502497,Transfer,0,1,10,2024
+TX-20240301-001,2024-03-01,EzyDog Chest Plate Harness for Dogs,Aksesoris,11,12024,132264,Tunai,0,2,3,2024
+TX-20240729-001,2024-07-29,Life Cat Can - Kitten Tuna,Makanan,13,12024,156312,Transfer,2,1,7,2024
+TX-20240417-001,2024-04-17,Life Cat Pouch - Kitten Tuna,Makanan,18,4435,79830,Tunai,2,2,4,2024
+TX-20240328-001,2024-03-28,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,55833,334998,Tunai,0,2,3,2024
+TX-20240417-002,2024-04-17,Life Cat Can - Tuna,Makanan,4,130000,520000,Transfer,2,1,4,2024
+TX-20241022-001,2024-10-22,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,1,12024,12024,Transfer,3,1,10,2024
+TX-20240116-001,2024-01-16,Life Cat Pouch Dus,Makanan,12,130000,1560000,Transfer,2,1,1,2024
+TX-20240928-001,2024-09-28,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,130000,1820000,Tunai,3,2,9,2024
+TX-20240708-001,2024-07-08,Drontal Cat Dewormer,Obat Hewan,17,4435,75395,QRIS,3,0,7,2024
+TX-20240211-001,2024-02-11,Nutri-Vet Multivitamin Chewable,Obat Hewan,8,130000,1040000,Tunai,3,2,2,2024
+TX-20240626-001,2024-06-26,Life Cat Pouch - Kitten Salmon,Makanan,8,4435,35480,Tunai,2,2,6,2024
+TX-20241017-002,2024-10-17,Trixie Cat Tunnel,Mainan,5,4435,22175,QRIS,1,0,10,2024
+TX-20240710-001,2024-07-10,Kong Classic Dog Chew Toy,Mainan,18,4435,79830,Transfer,1,1,7,2024
+TX-20240218-001,2024-02-18,Rogz Utility Dog Leash - Medium,Aksesoris,12,50000,600000,Transfer,0,1,2,2024
+TX-20240721-001,2024-07-21,Seresto Flea and Tick Collar for Dogs,Obat Hewan,8,50000,400000,Tunai,3,2,7,2024
+TX-20240207-001,2024-02-07,Trixie Cat Tunnel,Mainan,2,250000,500000,Transfer,1,1,2,2024
+TX-20240112-001,2024-01-12,Kong Puppy Teething Stick,Mainan,3,250000,750000,Transfer,1,1,1,2024
+TX-20240917-001,2024-09-17,Kong Puppy Teething Stick,Mainan,11,4435,48785,Transfer,1,1,9,2024
+TX-20240913-001,2024-09-13,Nutri-Vet Multivitamin Chewable,Obat Hewan,3,55833,167499,Tunai,3,2,9,2024
+TX-20241101-003,2024-11-01,Frontline Plus Flea & Tick Treatment,Obat Hewan,8,130000,1040000,QRIS,3,0,11,2024
+TX-20240204-001,2024-02-04,Life Cat Pouch - Chicken Tuna Adult,Makanan,19,12024,228456,QRIS,2,0,2,2024
+TX-20240219-001,2024-02-19,Life Cat Pouch - Salmon Adult,Makanan,11,50000,550000,Transfer,2,1,2,2024
+TX-20240529-001,2024-05-29,Life Cat Can - Tuna,Makanan,10,55833,558330,QRIS,2,0,5,2024
+TX-20240519-001,2024-05-19,Trixie Cat Tunnel,Mainan,6,4435,26610,QRIS,1,0,5,2024
+TX-20240104-001,2024-01-04,Trixie Cat Laser Pointer,Mainan,12,130000,1560000,QRIS,1,0,1,2024
+TX-20240205-001,2024-02-05,Life Cat Pouch - Kitten Tuna,Makanan,8,12024,96192,Transfer,2,1,2,2024
+TX-20240329-001,2024-03-29,Life Cat Tofu - Macha,Makanan,6,50000,300000,QRIS,2,0,3,2024
+TX-20240610-001,2024-06-10,Drontal Cat Dewormer,Obat Hewan,2,4435,8870,QRIS,3,0,6,2024
+TX-20240102-001,2024-01-02,Life Cat Can - Kitten Tuna,Makanan,7,50000,350000,Transfer,2,1,1,2024
+TX-20240715-001,2024-07-15,Life Cat Can - Kitten Salmon,Makanan,1,50000,50000,Tunai,2,2,7,2024
+TX-20240405-001,2024-04-05,Life Cat Can - Kitten Tuna,Makanan,3,50000,150000,Transfer,2,1,4,2024
+TX-20240614-001,2024-06-14,Life Cat Tofu - Mango,Makanan,3,50000,150000,QRIS,2,0,6,2024
+TX-20240524-001,2024-05-24,Life Cat Pouch - Chicken Adult,Makanan,17,130000,2210000,QRIS,2,0,5,2024
+TX-20240311-002,2024-03-11,Life Cat Pouch - Kitten Chicken,Makanan,9,50000,450000,QRIS,2,0,3,2024
+TX-20240515-001,2024-05-15,Kong Classic Dog Chew Toy,Mainan,18,4435,79830,QRIS,1,0,5,2024
+TX-20240801-003,2024-08-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,17,50000,850000,Tunai,2,2,8,2024
+TX-20240812-002,2024-08-12,Life Cat Can - Tuna,Makanan,18,50000,900000,QRIS,2,0,8,2024
+TX-20240911-001,2024-09-11,Kong Classic Dog Chew Toy,Mainan,11,50000,550000,Transfer,1,1,9,2024
+TX-20240320-001,2024-03-20,Life Cat Pouch - Kitten Salmon,Makanan,4,4435,17740,Transfer,2,1,3,2024
+TX-20240213-001,2024-02-13,EzyDog Chest Plate Harness for Dogs,Aksesoris,9,130000,1170000,Tunai,0,2,2,2024
+TX-20240707-002,2024-07-07,Life Cat Pouch - Kitten Tuna,Makanan,3,12024,36072,Tunai,2,2,7,2024
+TX-20240410-001,2024-04-10,Trixie Cat Scratching Post,Mainan,17,50000,850000,Transfer,1,1,4,2024
+TX-20240213-002,2024-02-13,Rogz Utility Dog Leash - Medium,Aksesoris,13,50000,650000,Transfer,0,1,2,2024
+TX-20240805-001,2024-08-05,Life Cat Pouch - Kitten Chicken,Makanan,17,130000,2210000,Transfer,2,1,8,2024
+TX-20240316-001,2024-03-16,Kong Classic Dog Chew Toy,Mainan,16,12024,192384,Transfer,1,1,3,2024
+TX-20240210-001,2024-02-10,Life Cat Can - Chicken,Makanan,3,4435,13305,QRIS,2,0,2,2024
+TX-20240128-001,2024-01-28,Life Cat Can - Kitten Tuna,Makanan,2,130000,260000,Transfer,2,1,1,2024
+TX-20240401-001,2024-04-01,Nutri-Vet Multivitamin Chewable,Obat Hewan,3,55833,167499,Transfer,3,1,4,2024
+TX-20240528-001,2024-05-28,Kong Puppy Teething Stick,Mainan,11,50000,550000,Transfer,1,1,5,2024
+TX-20240602-001,2024-06-02,Life Cat Tofu - Macha,Makanan,13,12024,156312,Transfer,2,1,6,2024
+TX-20240304-001,2024-03-04,Life Cat Can - Chicken,Makanan,8,55833,446664,Transfer,2,1,3,2024
+TX-20240214-001,2024-02-14,Drontal Cat Dewormer,Obat Hewan,10,50000,500000,QRIS,3,0,2,2024
+TX-20240929-001,2024-09-29,Drontal Cat Dewormer,Obat Hewan,8,50000,400000,Transfer,3,1,9,2024
+TX-20240816-001,2024-08-16,Life Cat Pouch Dus,Makanan,4,250000,1000000,QRIS,2,0,8,2024
+TX-20241006-002,2024-10-06,Life Cat Can - Chicken,Makanan,13,130000,1690000,Tunai,2,2,10,2024
+TX-20240731-003,2024-07-31,Drontal Cat Dewormer,Obat Hewan,15,130000,1950000,Transfer,3,1,7,2024
+TX-20240901-001,2024-09-01,Kong Classic Dog Chew Toy,Mainan,12,12024,144288,Tunai,1,2,9,2024
+TX-20241117-001,2024-11-17,Kong Puppy Teething Stick,Mainan,10,55833,558330,Transfer,1,1,11,2024
+TX-20240820-002,2024-08-20,Life Cat Pouch Dus,Makanan,16,4435,70960,Tunai,2,2,8,2024
+TX-20240602-002,2024-06-02,Life Cat Pouch - Chicken Adult,Makanan,1,4435,4435,Tunai,2,2,6,2024
+TX-20240615-001,2024-06-15,Life Cat Pouch - Kitten Salmon,Makanan,15,4435,66525,Tunai,2,2,6,2024
+TX-20240629-001,2024-06-29,Life Cat Can - Kitten Salmon,Makanan,18,12024,216432,Tunai,2,2,6,2024
+TX-20241023-001,2024-10-23,Seresto Flea and Tick Collar for Dogs,Obat Hewan,14,4435,62090,Tunai,3,2,10,2024
+TX-20240928-002,2024-09-28,Kong Puppy Teething Stick,Mainan,6,50000,300000,Transfer,1,1,9,2024
+TX-20240314-001,2024-03-14,Rogz Utility Dog Leash - Medium,Aksesoris,15,12024,180360,Transfer,0,1,3,2024
+TX-20241106-001,2024-11-06,Seresto Flea and Tick Collar for Dogs,Obat Hewan,1,50000,50000,Tunai,3,2,11,2024
+TX-20240603-001,2024-06-03,Life Cat Can - Tuna,Makanan,1,130000,130000,Tunai,2,2,6,2024
+TX-20240215-001,2024-02-15,Seresto Flea and Tick Collar for Dogs,Obat Hewan,9,55833,502497,QRIS,3,0,2,2024
+TX-20241015-001,2024-10-15,Nutri-Vet Multivitamin Chewable,Obat Hewan,5,50000,250000,Transfer,3,1,10,2024
+TX-20240709-001,2024-07-09,Nutri-Vet Multivitamin Chewable,Obat Hewan,10,50000,500000,QRIS,3,0,7,2024
+TX-20240617-001,2024-06-17,Life Cat Tofu - Macha,Makanan,13,12024,156312,Tunai,2,2,6,2024
+TX-20240624-001,2024-06-24,Life Cat Tofu - Mango,Makanan,1,130000,130000,QRIS,2,0,6,2024
+TX-20240621-001,2024-06-21,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,15,55833,837495,Tunai,3,2,6,2024
+TX-20240811-001,2024-08-11,Life Cat Pouch - Kitten Salmon,Makanan,5,50000,250000,Transfer,2,1,8,2024
+TX-20240225-001,2024-02-25,Frontline Plus Flea & Tick Treatment,Obat Hewan,5,4435,22175,Transfer,3,1,2,2024
+TX-20240314-002,2024-03-14,Trixie Cat Scratching Post,Mainan,15,55833,837495,QRIS,1,0,3,2024
+TX-20240610-002,2024-06-10,Rogz Utility Dog Leash - Medium,Aksesoris,3,50000,150000,Tunai,0,2,6,2024
+TX-20240115-001,2024-01-15,Trixie Cat Tunnel,Mainan,15,50000,750000,QRIS,1,0,1,2024
+TX-20240826-001,2024-08-26,Life Cat Can - Kitten Salmon,Makanan,14,50000,700000,Transfer,2,1,8,2024
+TX-20240502-001,2024-05-02,Life Cat Pouch - Salmon Adult,Makanan,12,50000,600000,Transfer,2,1,5,2024
+TX-20240106-001,2024-01-06,Life Cat Pouch - Kitten Chicken,Makanan,9,130000,1170000,Transfer,2,1,1,2024
+TX-20240111-001,2024-01-11,Life Cat Pouch - Kitten Tuna,Makanan,10,4435,44350,QRIS,2,0,1,2024
+TX-20240304-002,2024-03-04,Rogz Utility Dog Leash - Medium,Aksesoris,17,4435,75395,QRIS,0,0,3,2024
+TX-20240321-001,2024-03-21,Life Cat Pouch - Salmon Adult,Makanan,2,50000,100000,Transfer,2,1,3,2024
+TX-20240527-001,2024-05-27,Life Cat Can - Kitten Tuna,Makanan,16,130000,2080000,Tunai,2,2,5,2024
+TX-20240115-002,2024-01-15,Trixie Cat Tunnel,Mainan,4,130000,520000,QRIS,1,0,1,2024
+TX-20240610-003,2024-06-10,Life Cat Can - Tuna,Makanan,4,55833,223332,Transfer,2,1,6,2024
+TX-20240518-002,2024-05-18,Life Cat Pouch Dus,Makanan,9,55833,502497,Tunai,2,2,5,2024
+TX-20240420-001,2024-04-20,Trixie Cat Tunnel,Mainan,4,130000,520000,Tunai,1,2,4,2024
+TX-20240613-003,2024-06-13,Life Cat Pouch - Kitten Salmon,Makanan,13,50000,650000,QRIS,2,0,6,2024
+TX-20240513-001,2024-05-13,Trixie Cat Scratching Post,Mainan,2,130000,260000,Tunai,1,2,5,2024
+TX-20241027-001,2024-10-27,Trixie Cat Laser Pointer,Mainan,4,12024,48096,Tunai,1,2,10,2024
+TX-20241001-002,2024-10-01,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,13,50000,650000,Tunai,3,2,10,2024
+TX-20240711-001,2024-07-11,Trixie Cat Scratching Post,Mainan,18,4435,79830,Tunai,1,2,7,2024
+TX-20240930-001,2024-09-30,Life Cat Can - Kitten Salmon,Makanan,11,12024,132264,Transfer,2,1,9,2024
+TX-20240410-002,2024-04-10,Trixie Cat Laser Pointer,Mainan,16,50000,800000,Tunai,1,2,4,2024
+TX-20240205-002,2024-02-05,Life Cat Can - Tuna,Makanan,2,55833,111666,Transfer,2,1,2,2024
+TX-20240109-002,2024-01-09,Life Cat Pouch - Kitten Salmon,Makanan,3,4435,13305,Transfer,2,1,1,2024
+TX-20240121-001,2024-01-21,Life Cat Can - Kitten Tuna,Makanan,12,50000,600000,Tunai,2,2,1,2024
+TX-20240516-001,2024-05-16,Life Cat Can - Chicken,Makanan,18,50000,900000,Tunai,2,2,5,2024
+TX-20241112-002,2024-11-12,Drontal Cat Dewormer,Obat Hewan,6,55833,334998,Transfer,3,1,11,2024
+TX-20240127-002,2024-01-27,Seresto Flea and Tick Collar for Dogs,Obat Hewan,14,50000,700000,QRIS,3,0,1,2024
+TX-20240117-001,2024-01-17,Life Cat Pouch - Chicken Tuna Adult,Makanan,14,130000,1820000,Transfer,2,1,1,2024
+TX-20241027-002,2024-10-27,Life Cat Pouch - Salmon Adult,Makanan,9,50000,450000,Tunai,2,2,10,2024
+TX-20240704-001,2024-07-04,Life Cat Pouch Dus,Makanan,2,55833,111666,Transfer,2,1,7,2024
+TX-20240127-003,2024-01-27,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,4435,31045,Transfer,0,1,1,2024
+TX-20240311-003,2024-03-11,Life Cat Can - Chicken,Makanan,8,12024,96192,Transfer,2,1,3,2024
+TX-20240213-003,2024-02-13,Life Cat Pouch Dus,Makanan,7,55833,390831,Tunai,2,2,2,2024
+TX-20240807-002,2024-08-07,Life Cat Pouch Dus,Makanan,7,50000,350000,Transfer,2,1,8,2024
+TX-20240319-001,2024-03-19,Life Cat Can - Tuna,Makanan,4,12024,48096,Tunai,2,2,3,2024
+TX-20241001-003,2024-10-01,Life Cat Pouch - Kitten Tuna,Makanan,18,50000,900000,Transfer,2,1,10,2024
+TX-20241117-002,2024-11-17,Nutri-Vet Multivitamin Chewable,Obat Hewan,1,4435,4435,Transfer,3,1,11,2024
+TX-20240424-002,2024-04-24,Life Cat Pouch - Kitten Salmon,Makanan,2,130000,260000,QRIS,2,0,4,2024
+TX-20240421-002,2024-04-21,Rogz Utility Dog Leash - Medium,Aksesoris,4,12024,48096,Transfer,0,1,4,2024
+TX-20240528-002,2024-05-28,Life Cat Tofu - Macha,Makanan,5,130000,650000,Transfer,2,1,5,2024
+TX-20240928-003,2024-09-28,Life Cat Can - Kitten Salmon,Makanan,9,50000,450000,QRIS,2,0,9,2024
+TX-20240804-001,2024-08-04,Life Cat Can - Chicken,Makanan,6,55833,334998,Transfer,2,1,8,2024
+TX-20240723-001,2024-07-23,Life Cat Pouch - Kitten Chicken,Makanan,1,4435,4435,Transfer,2,1,7,2024
+TX-20240128-002,2024-01-28,Trixie Cat Scratching Post,Mainan,18,55833,1004994,QRIS,1,0,1,2024
+TX-20240216-001,2024-02-16,Life Cat Can - Kitten Salmon,Makanan,15,50000,750000,QRIS,2,0,2,2024
+TX-20240718-001,2024-07-18,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,4,130000,520000,QRIS,3,0,7,2024
+TX-20240826-002,2024-08-26,Life Cat Pouch - Kitten Tuna,Makanan,10,4435,44350,Transfer,2,1,8,2024
+TX-20240626-002,2024-06-26,Trixie Cat Laser Pointer,Mainan,1,130000,130000,Transfer,1,1,6,2024
+TX-20240326-001,2024-03-26,Kong Classic Dog Chew Toy,Mainan,8,12024,96192,Transfer,1,1,3,2024
+TX-20240607-001,2024-06-07,Life Cat Pouch - Kitten Chicken,Makanan,8,4435,35480,Transfer,2,1,6,2024
+TX-20240804-002,2024-08-04,Life Cat Can - Tuna,Makanan,19,12024,228456,Tunai,2,2,8,2024
+TX-20240319-002,2024-03-19,Drontal Cat Dewormer,Obat Hewan,2,250000,500000,Tunai,3,2,3,2024
+TX-20240726-001,2024-07-26,Kong Classic Dog Chew Toy,Mainan,16,4435,70960,Transfer,1,1,7,2024
+TX-20240423-001,2024-04-23,Life Cat Pouch Dus,Makanan,11,130000,1430000,Transfer,2,1,4,2024
+TX-20241010-002,2024-10-10,EzyDog Chest Plate Harness for Dogs,Aksesoris,18,12024,216432,Transfer,0,1,10,2024
+TX-20240408-001,2024-04-08,Rogz Utility Dog Leash - Medium,Aksesoris,18,55833,1004994,QRIS,0,0,4,2024
+TX-20241109-001,2024-11-09,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,12024,84168,QRIS,0,0,11,2024
+TX-20240430-001,2024-04-30,Trixie Cat Laser Pointer,Mainan,2,12024,24048,QRIS,1,0,4,2024
+TX-20240807-003,2024-08-07,Life Cat Can - Kitten Tuna,Makanan,6,55833,334998,Tunai,2,2,8,2024
+TX-20240521-001,2024-05-21,Life Cat Pouch - Kitten Salmon,Makanan,1,55833,55833,Transfer,2,1,5,2024
+TX-20240531-002,2024-05-31,Trixie Cat Laser Pointer,Mainan,6,12024,72144,QRIS,1,0,5,2024
+TX-20240913-002,2024-09-13,Life Cat Can - Kitten Salmon,Makanan,14,12024,168336,Transfer,2,1,9,2024
+TX-20241005-001,2024-10-05,Life Cat Can - Tuna,Makanan,4,12024,48096,Transfer,2,1,10,2024
+TX-20240430-002,2024-04-30,Life Cat Pouch - Chicken Adult,Makanan,8,4435,35480,Transfer,2,1,4,2024
+TX-20240328-002,2024-03-28,Life Cat Pouch - Kitten Tuna,Makanan,17,4435,75395,Tunai,2,2,3,2024
+TX-20240928-004,2024-09-28,Life Cat Tofu - Macha,Makanan,14,12024,168336,Transfer,2,1,9,2024
+TX-20241106-003,2024-11-06,Life Cat Can - Tuna,Makanan,8,250000,2000000,Tunai,2,2,11,2024
+TX-20240915-001,2024-09-15,Life Cat Pouch - Salmon Adult,Makanan,10,55833,558330,Tunai,2,2,9,2024
+TX-20240929-002,2024-09-29,Kong Puppy Teething Stick,Mainan,18,55833,1004994,Tunai,1,2,9,2024
+TX-20240426-001,2024-04-26,Kong Classic Dog Chew Toy,Mainan,3,12024,36072,QRIS,1,0,4,2024
+TX-20241004-001,2024-10-04,Life Cat Can - Kitten Tuna,Makanan,15,130000,1950000,QRIS,2,0,10,2024
+TX-20240422-001,2024-04-22,Life Cat Can - Chicken,Makanan,5,50000,250000,Transfer,2,1,4,2024
+TX-20240801-004,2024-08-01,Trixie Cat Laser Pointer,Mainan,17,12024,204408,Tunai,1,2,8,2024
+TX-20240521-002,2024-05-21,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,19,50000,950000,QRIS,3,0,5,2024
+TX-20240607-002,2024-06-07,Life Cat Pouch - Chicken Tuna Adult,Makanan,5,130000,650000,Transfer,2,1,6,2024
+TX-20240906-001,2024-09-06,Kong Puppy Teething Stick,Mainan,14,130000,1820000,QRIS,1,0,9,2024
+TX-20240608-001,2024-06-08,Drontal Cat Dewormer,Obat Hewan,17,50000,850000,Tunai,3,2,6,2024
+TX-20241020-001,2024-10-20,Life Cat Can - Kitten Salmon,Makanan,1,55833,55833,Tunai,2,2,10,2024
+TX-20240309-001,2024-03-09,Trixie Cat Laser Pointer,Mainan,8,4435,35480,Transfer,1,1,3,2024
+TX-20240331-001,2024-03-31,Nutri-Vet Multivitamin Chewable,Obat Hewan,4,4435,17740,QRIS,3,0,3,2024
+TX-20240321-002,2024-03-21,Trixie Cat Laser Pointer,Mainan,14,50000,700000,Transfer,1,1,3,2024
+TX-20240320-002,2024-03-20,Life Cat Tofu - Mango,Makanan,15,130000,1950000,QRIS,2,0,3,2024
+TX-20240313-001,2024-03-13,Kong Classic Dog Chew Toy,Mainan,7,55833,390831,Transfer,1,1,3,2024
+TX-20241201-001,2024-12-01,Drontal Cat Dewormer,Obat Hewan,15,130000,1950000,Tunai,3,2,12,2024
+TX-20240411-001,2024-04-11,Life Cat Can - Chicken,Makanan,14,50000,700000,QRIS,2,0,4,2024
+TX-20240811-002,2024-08-11,Rogz Utility Dog Leash - Medium,Aksesoris,7,250000,1750000,QRIS,0,0,8,2024
+TX-20240418-001,2024-04-18,Life Cat Tofu - Mango,Makanan,19,4435,84265,Transfer,2,1,4,2024
+TX-20240706-001,2024-07-06,Life Cat Pouch - Chicken Adult,Makanan,3,250000,750000,Tunai,2,2,7,2024
+TX-20240629-002,2024-06-29,Life Cat Can - Kitten Tuna,Makanan,7,4435,31045,Tunai,2,2,6,2024
+TX-20240929-003,2024-09-29,EzyDog Chest Plate Harness for Dogs,Aksesoris,8,4435,35480,Tunai,0,2,9,2024
+TX-20240605-001,2024-06-05,Life Cat Can - Kitten Salmon,Makanan,11,130000,1430000,Tunai,2,2,6,2024
+TX-20240126-001,2024-01-26,Trixie Cat Scratching Post,Mainan,5,50000,250000,QRIS,1,0,1,2024
+TX-20241019-001,2024-10-19,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,12024,168336,QRIS,3,0,10,2024
+TX-20240930-002,2024-09-30,Life Cat Pouch - Kitten Salmon,Makanan,16,130000,2080000,QRIS,2,0,9,2024
+TX-20240617-002,2024-06-17,Life Cat Pouch Dus,Makanan,2,12024,24048,Transfer,2,1,6,2024
+TX-20241014-001,2024-10-14,Life Cat Can - Kitten Tuna,Makanan,9,130000,1170000,Transfer,2,1,10,2024
+TX-20240303-002,2024-03-03,Drontal Cat Dewormer,Obat Hewan,1,12024,12024,QRIS,3,0,3,2024
+TX-20240601-001,2024-06-01,Drontal Cat Dewormer,Obat Hewan,19,55833,1060827,Tunai,3,2,6,2024
+TX-20241017-003,2024-10-17,Kong Puppy Teething Stick,Mainan,9,4435,39915,Transfer,1,1,10,2024
+TX-20241015-002,2024-10-15,Life Cat Can - Kitten Tuna,Makanan,1,250000,250000,Transfer,2,1,10,2024
+TX-20241030-002,2024-10-30,Life Cat Pouch - Kitten Salmon,Makanan,13,130000,1690000,Tunai,2,2,10,2024
+TX-20241104-001,2024-11-04,Kong Classic Dog Chew Toy,Mainan,2,12024,24048,Transfer,1,1,11,2024
+TX-20240711-002,2024-07-11,Drontal Cat Dewormer,Obat Hewan,1,12024,12024,Tunai,3,2,7,2024
+TX-20241020-002,2024-10-20,Life Cat Can - Kitten Salmon,Makanan,1,4435,4435,Transfer,2,1,10,2024
+TX-20240629-003,2024-06-29,Life Cat Tofu - Macha,Makanan,8,50000,400000,QRIS,2,0,6,2024
+TX-20241028-001,2024-10-28,Life Cat Pouch - Kitten Salmon,Makanan,14,130000,1820000,Tunai,2,2,10,2024
+TX-20240522-001,2024-05-22,Trixie Cat Scratching Post,Mainan,18,4435,79830,Transfer,1,1,5,2024
+TX-20240101-002,2024-01-01,Life Cat Pouch - Kitten Salmon,Makanan,2,4435,8870,Tunai,2,2,1,2024
+TX-20241003-001,2024-10-03,Trixie Cat Tunnel,Mainan,15,50000,750000,QRIS,1,0,10,2024
+TX-20240615-002,2024-06-15,Life Cat Pouch - Chicken Tuna Adult,Makanan,4,50000,200000,Transfer,2,1,6,2024
+TX-20241016-001,2024-10-16,Life Cat Pouch - Kitten Chicken,Makanan,6,4435,26610,QRIS,2,0,10,2024
+TX-20240204-003,2024-02-04,Life Cat Tofu - Macha,Makanan,11,4435,48785,Transfer,2,1,2,2024
+TX-20240509-001,2024-05-09,EzyDog Chest Plate Harness for Dogs,Aksesoris,3,55833,167499,Transfer,0,1,5,2024
+TX-20240808-001,2024-08-08,Life Cat Tofu - Mango,Makanan,12,50000,600000,QRIS,2,0,8,2024
+TX-20240927-001,2024-09-27,Life Cat Pouch - Salmon Adult,Makanan,3,50000,150000,Tunai,2,2,9,2024
+TX-20240731-004,2024-07-31,EzyDog Chest Plate Harness for Dogs,Aksesoris,9,130000,1170000,QRIS,0,0,7,2024
+TX-20240531-003,2024-05-31,Life Cat Can - Kitten Tuna,Makanan,6,4435,26610,Transfer,2,1,5,2024
+TX-20240921-001,2024-09-21,Life Cat Can - Kitten Tuna,Makanan,1,4435,4435,Tunai,2,2,9,2024
+TX-20240613-004,2024-06-13,Life Cat Pouch - Kitten Tuna,Makanan,5,4435,22175,QRIS,2,0,6,2024
+TX-20240729-002,2024-07-29,EzyDog Chest Plate Harness for Dogs,Aksesoris,5,55833,279165,Tunai,0,2,7,2024
+TX-20240722-001,2024-07-22,Kong Puppy Teething Stick,Mainan,13,130000,1690000,Transfer,1,1,7,2024
+TX-20240820-003,2024-08-20,Trixie Cat Tunnel,Mainan,13,12024,156312,Tunai,1,2,8,2024
+TX-20241028-002,2024-10-28,Life Cat Pouch - Kitten Salmon,Makanan,10,130000,1300000,Transfer,2,1,10,2024
+TX-20240530-001,2024-05-30,Life Cat Can - Chicken,Makanan,16,130000,2080000,Transfer,2,1,5,2024
+TX-20240405-002,2024-04-05,Life Cat Can - Kitten Tuna,Makanan,5,130000,650000,QRIS,2,0,4,2024
+TX-20240723-002,2024-07-23,Life Cat Pouch - Chicken Tuna Adult,Makanan,8,12024,96192,Transfer,2,1,7,2024
+TX-20240109-005,2024-01-09,Life Cat Pouch Dus,Makanan,16,12024,192384,Transfer,2,1,1,2024
+TX-20240505-001,2024-05-05,Frontline Plus Flea & Tick Treatment,Obat Hewan,5,130000,650000,Transfer,3,1,5,2024
+TX-20240911-002,2024-09-11,Life Cat Can - Chicken,Makanan,3,250000,750000,Transfer,2,1,9,2024
+TX-20240908-001,2024-09-08,Life Cat Pouch - Kitten Salmon,Makanan,10,50000,500000,Transfer,2,1,9,2024
+TX-20240730-001,2024-07-30,Nutri-Vet Multivitamin Chewable,Obat Hewan,9,4435,39915,Transfer,3,1,7,2024
+TX-20240226-001,2024-02-26,Drontal Cat Dewormer,Obat Hewan,15,55833,837495,QRIS,3,0,2,2024
+TX-20240324-001,2024-03-24,Kong Classic Dog Chew Toy,Mainan,19,12024,228456,QRIS,1,0,3,2024
+TX-20240904-001,2024-09-04,Trixie Cat Laser Pointer,Mainan,1,50000,50000,Transfer,1,1,9,2024
+TX-20240626-003,2024-06-26,Life Cat Tofu - Macha,Makanan,12,4435,53220,Tunai,2,2,6,2024
+TX-20240527-002,2024-05-27,Life Cat Pouch Dus,Makanan,3,130000,390000,Tunai,2,2,5,2024
+TX-20240621-002,2024-06-21,Life Cat Can - Chicken,Makanan,17,50000,850000,Transfer,2,1,6,2024
+TX-20241122-001,2024-11-22,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,12,12024,144288,QRIS,3,0,11,2024
+TX-20240618-001,2024-06-18,Life Cat Pouch - Chicken Adult,Makanan,2,4435,8870,QRIS,2,0,6,2024
+TX-20240815-001,2024-08-15,Life Cat Can - Chicken,Makanan,14,50000,700000,Transfer,2,1,8,2024
+TX-20240210-002,2024-02-10,Nutri-Vet Multivitamin Chewable,Obat Hewan,2,12024,24048,Tunai,3,2,2,2024
+TX-20240505-002,2024-05-05,Life Cat Pouch - Chicken Tuna Adult,Makanan,9,4435,39915,Transfer,2,1,5,2024
+TX-20240215-002,2024-02-15,Life Cat Pouch - Salmon Adult,Makanan,12,4435,53220,QRIS,2,0,2,2024
+TX-20240930-003,2024-09-30,Rogz Utility Dog Leash - Medium,Aksesoris,11,12024,132264,QRIS,0,0,9,2024
+TX-20240110-001,2024-01-10,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,7,55833,390831,QRIS,3,0,1,2024
+TX-20240827-001,2024-08-27,Life Cat Can - Chicken,Makanan,3,55833,167499,Tunai,2,2,8,2024
+TX-20240802-001,2024-08-02,Life Cat Pouch - Salmon Adult,Makanan,7,130000,910000,Tunai,2,2,8,2024
+TX-20240203-002,2024-02-03,Life Cat Tofu - Mango,Makanan,16,4435,70960,QRIS,2,0,2,2024
+TX-20241004-002,2024-10-04,Seresto Flea and Tick Collar for Dogs,Obat Hewan,19,50000,950000,Transfer,3,1,10,2024
+TX-20241020-003,2024-10-20,Life Cat Pouch - Salmon Adult,Makanan,8,250000,2000000,Transfer,2,1,10,2024
+TX-20241120-001,2024-11-20,Nutri-Vet Multivitamin Chewable,Obat Hewan,11,55833,614163,QRIS,3,0,11,2024
+TX-20240316-002,2024-03-16,Life Cat Pouch - Kitten Salmon,Makanan,18,50000,900000,Tunai,2,2,3,2024
+TX-20240417-003,2024-04-17,Kong Classic Dog Chew Toy,Mainan,11,12024,132264,Transfer,1,1,4,2024
+TX-20240629-004,2024-06-29,Seresto Flea and Tick Collar for Dogs,Obat Hewan,3,130000,390000,Transfer,3,1,6,2024
+TX-20240628-001,2024-06-28,Frontline Plus Flea & Tick Treatment,Obat Hewan,10,50000,500000,Tunai,3,2,6,2024
+TX-20240309-002,2024-03-09,Life Cat Can - Kitten Salmon,Makanan,12,4435,53220,Tunai,2,2,3,2024
+TX-20241001-004,2024-10-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,17,4435,75395,Tunai,2,2,10,2024
+TX-20240524-002,2024-05-24,EzyDog Chest Plate Harness for Dogs,Aksesoris,2,250000,500000,QRIS,0,0,5,2024
+TX-20241113-001,2024-11-13,Life Cat Pouch - Salmon Adult,Makanan,3,12024,36072,QRIS,2,0,11,2024
+TX-20241121-001,2024-11-21,Life Cat Pouch - Chicken Adult,Makanan,19,4435,84265,Tunai,2,2,11,2024
+TX-20240328-003,2024-03-28,Rogz Utility Dog Leash - Medium,Aksesoris,16,4435,70960,QRIS,0,0,3,2024
+TX-20241029-001,2024-10-29,Life Cat Pouch - Chicken Tuna Adult,Makanan,15,50000,750000,Tunai,2,2,10,2024
+TX-20240913-003,2024-09-13,Life Cat Tofu - Mango,Makanan,14,55833,781662,Transfer,2,1,9,2024
+TX-20240608-002,2024-06-08,Kong Classic Dog Chew Toy,Mainan,14,130000,1820000,Transfer,1,1,6,2024
+TX-20240926-001,2024-09-26,Trixie Cat Tunnel,Mainan,1,4435,4435,Transfer,1,1,9,2024
+TX-20240521-003,2024-05-21,Trixie Cat Tunnel,Mainan,14,4435,62090,Tunai,1,2,5,2024
+TX-20240204-004,2024-02-04,Life Cat Tofu - Macha,Makanan,10,55833,558330,Tunai,2,2,2,2024
+TX-20240118-001,2024-01-18,Kong Puppy Teething Stick,Mainan,17,55833,949161,QRIS,1,0,1,2024
+TX-20240221-001,2024-02-21,Frontline Plus Flea & Tick Treatment,Obat Hewan,1,130000,130000,Transfer,3,1,2,2024
+TX-20240402-001,2024-04-02,Rogz Utility Dog Leash - Medium,Aksesoris,19,4435,84265,QRIS,0,0,4,2024
+TX-20240309-003,2024-03-09,Life Cat Pouch - Chicken Adult,Makanan,15,130000,1950000,Transfer,2,1,3,2024
+TX-20240520-001,2024-05-20,Life Cat Pouch - Kitten Tuna,Makanan,5,4435,22175,Tunai,2,2,5,2024
+TX-20241004-003,2024-10-04,Frontline Plus Flea & Tick Treatment,Obat Hewan,10,4435,44350,QRIS,3,0,10,2024
+TX-20240417-004,2024-04-17,Life Cat Pouch - Salmon Adult,Makanan,7,130000,910000,Transfer,2,1,4,2024
+TX-20240612-001,2024-06-12,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,4435,62090,Tunai,3,2,6,2024
+TX-20240416-001,2024-04-16,Trixie Cat Scratching Post,Mainan,1,130000,130000,Tunai,1,2,4,2024
+TX-20241106-004,2024-11-06,Kong Puppy Teething Stick,Mainan,6,12024,72144,Tunai,1,2,11,2024
+TX-20240306-001,2024-03-06,Life Cat Pouch - Kitten Salmon,Makanan,10,4435,44350,Tunai,2,2,3,2024
+TX-20240806-001,2024-08-06,Frontline Plus Flea & Tick Treatment,Obat Hewan,10,4435,44350,QRIS,3,0,8,2024
+TX-20240523-001,2024-05-23,Life Cat Pouch - Chicken Tuna Adult,Makanan,12,12024,144288,Tunai,2,2,5,2024
+TX-20240719-001,2024-07-19,Trixie Cat Tunnel,Mainan,2,250000,500000,QRIS,1,0,7,2024
+TX-20240217-001,2024-02-17,Life Cat Tofu - Mango,Makanan,14,130000,1820000,QRIS,2,0,2,2024
+TX-20240926-002,2024-09-26,Life Cat Pouch - Chicken Tuna Adult,Makanan,8,50000,400000,QRIS,2,0,9,2024
+TX-20240921-002,2024-09-21,Trixie Cat Tunnel,Mainan,15,55833,837495,QRIS,1,0,9,2024
+TX-20240309-004,2024-03-09,Kong Classic Dog Chew Toy,Mainan,5,55833,279165,Transfer,1,1,3,2024
+TX-20240308-001,2024-03-08,Trixie Cat Laser Pointer,Mainan,2,50000,100000,Transfer,1,1,3,2024
+TX-20240723-003,2024-07-23,Life Cat Can - Tuna,Makanan,15,12024,180360,Transfer,2,1,7,2024
+TX-20240406-002,2024-04-06,Drontal Cat Dewormer,Obat Hewan,2,50000,100000,Transfer,3,1,4,2024
+TX-20240116-002,2024-01-16,Life Cat Can - Kitten Salmon,Makanan,17,55833,949161,Transfer,2,1,1,2024
+TX-20240130-001,2024-01-30,EzyDog Chest Plate Harness for Dogs,Aksesoris,4,250000,1000000,Transfer,0,1,1,2024
+TX-20241113-002,2024-11-13,Trixie Cat Laser Pointer,Mainan,5,250000,1250000,QRIS,1,0,11,2024
+TX-20240601-002,2024-06-01,Trixie Cat Scratching Post,Mainan,6,250000,1500000,Transfer,1,1,6,2024
+TX-20240902-003,2024-09-02,Life Cat Tofu - Mango,Makanan,19,4435,84265,QRIS,2,0,9,2024
+TX-20240402-002,2024-04-02,Rogz Utility Dog Leash - Medium,Aksesoris,15,130000,1950000,QRIS,0,0,4,2024
+TX-20241117-003,2024-11-17,Kong Classic Dog Chew Toy,Mainan,4,55833,223332,Tunai,1,2,11,2024
+TX-20240416-002,2024-04-16,Kong Puppy Teething Stick,Mainan,2,130000,260000,QRIS,1,0,4,2024
+TX-20240217-002,2024-02-17,Life Cat Pouch - Chicken Adult,Makanan,10,130000,1300000,Transfer,2,1,2,2024
+TX-20240927-002,2024-09-27,Seresto Flea and Tick Collar for Dogs,Obat Hewan,15,4435,66525,Tunai,3,2,9,2024
+TX-20240509-002,2024-05-09,Rogz Utility Dog Leash - Medium,Aksesoris,19,4435,84265,QRIS,0,0,5,2024
+TX-20241015-003,2024-10-15,Life Cat Pouch - Kitten Chicken,Makanan,10,55833,558330,Transfer,2,1,10,2024
+TX-20240415-001,2024-04-15,Life Cat Can - Chicken,Makanan,16,55833,893328,Transfer,2,1,4,2024
+TX-20240529-002,2024-05-29,Life Cat Can - Kitten Salmon,Makanan,7,12024,84168,QRIS,2,0,5,2024
+TX-20241019-002,2024-10-19,Trixie Cat Laser Pointer,Mainan,5,12024,60120,QRIS,1,0,10,2024
+TX-20240615-003,2024-06-15,Trixie Cat Laser Pointer,Mainan,19,4435,84265,Tunai,1,2,6,2024
+TX-20240128-003,2024-01-28,Life Cat Tofu - Mango,Makanan,11,50000,550000,Transfer,2,1,1,2024
+TX-20240609-002,2024-06-09,Life Cat Pouch - Chicken Adult,Makanan,6,250000,1500000,QRIS,2,0,6,2024
+TX-20240318-001,2024-03-18,Life Cat Pouch - Kitten Chicken,Makanan,19,50000,950000,Transfer,2,1,3,2024
+TX-20241027-004,2024-10-27,Trixie Cat Tunnel,Mainan,9,12024,108216,Transfer,1,1,10,2024
+TX-20240911-003,2024-09-11,Nutri-Vet Multivitamin Chewable,Obat Hewan,11,4435,48785,Tunai,3,2,9,2024
+TX-20240130-002,2024-01-30,Life Cat Pouch Dus,Makanan,16,55833,893328,QRIS,2,0,1,2024
+TX-20241024-001,2024-10-24,Life Cat Pouch - Kitten Salmon,Makanan,15,12024,180360,Transfer,2,1,10,2024
+TX-20240421-003,2024-04-21,Seresto Flea and Tick Collar for Dogs,Obat Hewan,18,55833,1004994,Transfer,3,1,4,2024
+TX-20241005-003,2024-10-05,Seresto Flea and Tick Collar for Dogs,Obat Hewan,10,12024,120240,Transfer,3,1,10,2024
+TX-20241116-001,2024-11-16,Seresto Flea and Tick Collar for Dogs,Obat Hewan,4,4435,17740,QRIS,3,0,11,2024
+TX-20240429-001,2024-04-29,Life Cat Tofu - Mango,Makanan,11,4435,48785,Transfer,2,1,4,2024
+TX-20241011-001,2024-10-11,Life Cat Pouch Dus,Makanan,9,12024,108216,Transfer,2,1,10,2024
+TX-20240708-002,2024-07-08,Life Cat Pouch - Salmon Adult,Makanan,2,55833,111666,QRIS,2,0,7,2024
+TX-20240219-002,2024-02-19,Life Cat Pouch - Kitten Tuna,Makanan,15,55833,837495,Tunai,2,2,2,2024
+TX-20240521-004,2024-05-21,Rogz Utility Dog Leash - Medium,Aksesoris,10,50000,500000,Tunai,0,2,5,2024
+TX-20240526-001,2024-05-26,Kong Puppy Teething Stick,Mainan,4,250000,1000000,QRIS,1,0,5,2024
+TX-20240103-002,2024-01-03,Life Cat Can - Tuna,Makanan,17,12024,204408,Transfer,2,1,1,2024
+TX-20241115-001,2024-11-15,Seresto Flea and Tick Collar for Dogs,Obat Hewan,12,130000,1560000,Transfer,3,1,11,2024
+TX-20240125-001,2024-01-25,Life Cat Pouch - Chicken Adult,Makanan,17,130000,2210000,Transfer,2,1,1,2024
+TX-20240519-003,2024-05-19,Life Cat Can - Kitten Salmon,Makanan,3,50000,150000,Transfer,2,1,5,2024
+TX-20240106-003,2024-01-06,Life Cat Can - Tuna,Makanan,18,55833,1004994,Transfer,2,1,1,2024
+TX-20240329-002,2024-03-29,Life Cat Tofu - Macha,Makanan,3,50000,150000,Transfer,2,1,3,2024
+TX-20240531-004,2024-05-31,Kong Classic Dog Chew Toy,Mainan,3,55833,167499,Transfer,1,1,5,2024
+TX-20240213-004,2024-02-13,Life Cat Pouch - Kitten Tuna,Makanan,15,4435,66525,Transfer,2,1,2,2024
+TX-20240625-001,2024-06-25,Rogz Utility Dog Leash - Medium,Aksesoris,14,4435,62090,QRIS,0,0,6,2024
+TX-20240410-003,2024-04-10,Life Cat Tofu - Macha,Makanan,8,250000,2000000,Tunai,2,2,4,2024
+TX-20240716-001,2024-07-16,Drontal Cat Dewormer,Obat Hewan,11,12024,132264,QRIS,3,0,7,2024
+TX-20240129-001,2024-01-29,Life Cat Pouch Dus,Makanan,5,4435,22175,Tunai,2,2,1,2024
+TX-20240110-002,2024-01-10,Life Cat Pouch - Salmon Adult,Makanan,5,130000,650000,Tunai,2,2,1,2024
+TX-20241117-004,2024-11-17,Life Cat Pouch - Kitten Chicken,Makanan,5,4435,22175,Transfer,2,1,11,2024
+TX-20241020-004,2024-10-20,Life Cat Tofu - Macha,Makanan,6,130000,780000,Tunai,2,2,10,2024
+TX-20240627-001,2024-06-27,Life Cat Pouch - Kitten Salmon,Makanan,17,4435,75395,Transfer,2,1,6,2024
+TX-20240102-002,2024-01-02,Life Cat Pouch - Kitten Tuna,Makanan,11,55833,614163,QRIS,2,0,1,2024
+TX-20240201-001,2024-02-01,Life Cat Tofu - Macha,Makanan,12,55833,669996,Tunai,2,2,2,2024
+TX-20240715-002,2024-07-15,Drontal Cat Dewormer,Obat Hewan,8,55833,446664,Tunai,3,2,7,2024
+TX-20240229-001,2024-02-29,Trixie Cat Scratching Post,Mainan,11,12024,132264,Tunai,1,2,2,2024
+TX-20240409-001,2024-04-09,Life Cat Can - Chicken,Makanan,10,130000,1300000,QRIS,2,0,4,2024
+TX-20240721-002,2024-07-21,Life Cat Pouch - Salmon Adult,Makanan,6,55833,334998,Transfer,2,1,7,2024
+TX-20240330-001,2024-03-30,Trixie Cat Laser Pointer,Mainan,2,55833,111666,Tunai,1,2,3,2024
+TX-20240619-001,2024-06-19,EzyDog Chest Plate Harness for Dogs,Aksesoris,10,50000,500000,Tunai,0,2,6,2024
+TX-20240320-003,2024-03-20,Drontal Cat Dewormer,Obat Hewan,10,130000,1300000,Tunai,3,2,3,2024
+TX-20240223-001,2024-02-23,Life Cat Pouch - Salmon Adult,Makanan,19,50000,950000,Tunai,2,2,2,2024
+TX-20240506-001,2024-05-06,Trixie Cat Laser Pointer,Mainan,1,12024,12024,QRIS,1,0,5,2024
+TX-20240413-001,2024-04-13,EzyDog Chest Plate Harness for Dogs,Aksesoris,1,50000,50000,Transfer,0,1,4,2024
+TX-20240526-002,2024-05-26,Rogz Utility Dog Leash - Medium,Aksesoris,6,55833,334998,QRIS,0,0,5,2024
+TX-20240124-001,2024-01-24,Drontal Cat Dewormer,Obat Hewan,13,12024,156312,Tunai,3,2,1,2024
+TX-20240703-001,2024-07-03,Kong Classic Dog Chew Toy,Mainan,10,130000,1300000,Transfer,1,1,7,2024
+TX-20240416-003,2024-04-16,Life Cat Pouch - Salmon Adult,Makanan,13,4435,57655,Transfer,2,1,4,2024
+TX-20240412-001,2024-04-12,Life Cat Can - Kitten Tuna,Makanan,16,55833,893328,QRIS,2,0,4,2024
+TX-20240307-001,2024-03-07,Life Cat Pouch Dus,Makanan,11,55833,614163,Transfer,2,1,3,2024
+TX-20240619-002,2024-06-19,Life Cat Tofu - Macha,Makanan,6,12024,72144,QRIS,2,0,6,2024
+TX-20240926-003,2024-09-26,Rogz Utility Dog Leash - Medium,Aksesoris,9,12024,108216,QRIS,0,0,9,2024
+TX-20240326-002,2024-03-26,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,50000,300000,Tunai,0,2,3,2024
+TX-20241101-004,2024-11-01,Trixie Cat Scratching Post,Mainan,9,55833,502497,Transfer,1,1,11,2024
+TX-20240325-002,2024-03-25,Life Cat Pouch - Chicken Adult,Makanan,9,12024,108216,Transfer,2,1,3,2024
+TX-20240606-001,2024-06-06,Life Cat Tofu - Macha,Makanan,11,130000,1430000,QRIS,2,0,6,2024
+TX-20240504-002,2024-05-04,Kong Puppy Teething Stick,Mainan,13,50000,650000,Tunai,1,2,5,2024
+TX-20240210-003,2024-02-10,Life Cat Tofu - Macha,Makanan,7,55833,390831,Transfer,2,1,2,2024
+TX-20240319-003,2024-03-19,Life Cat Pouch - Kitten Salmon,Makanan,7,12024,84168,Transfer,2,1,3,2024
+TX-20240423-002,2024-04-23,Seresto Flea and Tick Collar for Dogs,Obat Hewan,17,12024,204408,Transfer,3,1,4,2024
+TX-20240224-002,2024-02-24,Kong Puppy Teething Stick,Mainan,19,12024,228456,Tunai,1,2,2,2024
+TX-20241030-003,2024-10-30,Trixie Cat Scratching Post,Mainan,7,50000,350000,Transfer,1,1,10,2024
+TX-20240426-002,2024-04-26,Trixie Cat Scratching Post,Mainan,4,50000,200000,QRIS,1,0,4,2024
+TX-20240118-002,2024-01-18,Kong Puppy Teething Stick,Mainan,7,12024,84168,QRIS,1,0,1,2024
+TX-20240405-003,2024-04-05,Life Cat Can - Kitten Tuna,Makanan,15,4435,66525,Tunai,2,2,4,2024
+TX-20240426-003,2024-04-26,Life Cat Pouch - Kitten Tuna,Makanan,16,12024,192384,Tunai,2,2,4,2024
+TX-20240830-001,2024-08-30,Life Cat Pouch - Kitten Salmon,Makanan,6,12024,72144,QRIS,2,0,8,2024
+TX-20240113-001,2024-01-13,Life Cat Pouch - Kitten Chicken,Makanan,11,55833,614163,Transfer,2,1,1,2024
+TX-20240911-004,2024-09-11,Seresto Flea and Tick Collar for Dogs,Obat Hewan,2,130000,260000,Transfer,3,1,9,2024
+TX-20240115-003,2024-01-15,Life Cat Pouch - Kitten Tuna,Makanan,10,55833,558330,Transfer,2,1,1,2024
+TX-20240819-001,2024-08-19,Trixie Cat Scratching Post,Mainan,12,50000,600000,QRIS,1,0,8,2024
+TX-20240514-001,2024-05-14,Seresto Flea and Tick Collar for Dogs,Obat Hewan,6,4435,26610,Transfer,3,1,5,2024
+TX-20240812-003,2024-08-12,Life Cat Can - Kitten Salmon,Makanan,18,55833,1004994,Transfer,2,1,8,2024
+TX-20240506-002,2024-05-06,Life Cat Pouch - Salmon Adult,Makanan,8,55833,446664,Transfer,2,1,5,2024
+TX-20241114-001,2024-11-14,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,250000,1500000,Tunai,0,2,11,2024
+TX-20241104-002,2024-11-04,Trixie Cat Scratching Post,Mainan,12,130000,1560000,Transfer,1,1,11,2024
+TX-20240115-004,2024-01-15,Life Cat Can - Kitten Tuna,Makanan,19,4435,84265,QRIS,2,0,1,2024
+TX-20240323-002,2024-03-23,Life Cat Pouch - Kitten Tuna,Makanan,17,4435,75395,Transfer,2,1,3,2024
+TX-20240203-003,2024-02-03,Drontal Cat Dewormer,Obat Hewan,13,12024,156312,Tunai,3,2,2,2024
+TX-20240102-003,2024-01-02,Life Cat Pouch - Chicken Adult,Makanan,3,12024,36072,QRIS,2,0,1,2024
+TX-20240711-003,2024-07-11,Trixie Cat Tunnel,Mainan,9,50000,450000,QRIS,1,0,7,2024
+TX-20241024-002,2024-10-24,Life Cat Can - Kitten Tuna,Makanan,4,12024,48096,Tunai,2,2,10,2024
+TX-20240610-004,2024-06-10,Life Cat Can - Tuna,Makanan,1,55833,55833,QRIS,2,0,6,2024
+TX-20240831-001,2024-08-31,Kong Classic Dog Chew Toy,Mainan,12,12024,144288,Tunai,1,2,8,2024
+TX-20240623-003,2024-06-23,Kong Puppy Teething Stick,Mainan,2,50000,100000,QRIS,1,0,6,2024
+TX-20240823-001,2024-08-23,Life Cat Can - Chicken,Makanan,11,55833,614163,QRIS,2,0,8,2024
+TX-20241130-001,2024-11-30,Seresto Flea and Tick Collar for Dogs,Obat Hewan,1,55833,55833,Transfer,3,1,11,2024
+TX-20240520-002,2024-05-20,Life Cat Pouch - Kitten Chicken,Makanan,7,250000,1750000,Transfer,2,1,5,2024
+TX-20240624-002,2024-06-24,Life Cat Can - Chicken,Makanan,14,50000,700000,Transfer,2,1,6,2024
+TX-20240417-005,2024-04-17,Trixie Cat Laser Pointer,Mainan,2,50000,100000,Tunai,1,2,4,2024
+TX-20240823-002,2024-08-23,Trixie Cat Tunnel,Mainan,18,4435,79830,Tunai,1,2,8,2024
+TX-20240814-001,2024-08-14,EzyDog Chest Plate Harness for Dogs,Aksesoris,2,250000,500000,QRIS,0,0,8,2024
+TX-20240915-002,2024-09-15,Life Cat Tofu - Macha,Makanan,9,55833,502497,QRIS,2,0,9,2024
+TX-20240604-001,2024-06-04,Life Cat Pouch - Kitten Chicken,Makanan,8,50000,400000,Tunai,2,2,6,2024
+TX-20240528-003,2024-05-28,Life Cat Pouch - Salmon Adult,Makanan,8,130000,1040000,QRIS,2,0,5,2024
+TX-20240830-002,2024-08-30,Kong Classic Dog Chew Toy,Mainan,1,50000,50000,Transfer,1,1,8,2024
+TX-20241012-001,2024-10-12,Seresto Flea and Tick Collar for Dogs,Obat Hewan,8,50000,400000,QRIS,3,0,10,2024
+TX-20240921-003,2024-09-21,Life Cat Pouch - Salmon Adult,Makanan,11,4435,48785,QRIS,2,0,9,2024
+TX-20240715-003,2024-07-15,Life Cat Can - Kitten Tuna,Makanan,9,55833,502497,Tunai,2,2,7,2024
+TX-20240427-002,2024-04-27,Rogz Utility Dog Leash - Medium,Aksesoris,5,130000,650000,Tunai,0,2,4,2024
+TX-20240228-001,2024-02-28,Frontline Plus Flea & Tick Treatment,Obat Hewan,9,55833,502497,Transfer,3,1,2,2024
+TX-20240406-003,2024-04-06,Life Cat Pouch - Salmon Adult,Makanan,6,55833,334998,QRIS,2,0,4,2024
+TX-20240409-002,2024-04-09,Frontline Plus Flea & Tick Treatment,Obat Hewan,4,130000,520000,QRIS,3,0,4,2024
+TX-20240930-004,2024-09-30,Seresto Flea and Tick Collar for Dogs,Obat Hewan,5,12024,60120,Tunai,3,2,9,2024
+TX-20240919-001,2024-09-19,Trixie Cat Scratching Post,Mainan,17,55833,949161,Tunai,1,2,9,2024
+TX-20240502-002,2024-05-02,Trixie Cat Laser Pointer,Mainan,14,50000,700000,Tunai,1,2,5,2024
+TX-20241106-005,2024-11-06,Life Cat Pouch - Chicken Adult,Makanan,16,12024,192384,Transfer,2,1,11,2024
+TX-20241009-001,2024-10-09,Life Cat Tofu - Macha,Makanan,8,12024,96192,QRIS,2,0,10,2024
+TX-20240309-005,2024-03-09,Life Cat Can - Kitten Tuna,Makanan,1,4435,4435,Transfer,2,1,3,2024
+TX-20240613-005,2024-06-13,Nutri-Vet Multivitamin Chewable,Obat Hewan,10,50000,500000,Tunai,3,2,6,2024
+TX-20240901-003,2024-09-01,Life Cat Can - Chicken,Makanan,12,50000,600000,Transfer,2,1,9,2024
+TX-20240507-002,2024-05-07,Life Cat Pouch - Chicken Adult,Makanan,18,4435,79830,Transfer,2,1,5,2024
+TX-20240110-003,2024-01-10,Life Cat Can - Kitten Tuna,Makanan,13,130000,1690000,Tunai,2,2,1,2024
+TX-20240523-002,2024-05-23,Nutri-Vet Multivitamin Chewable,Obat Hewan,9,55833,502497,QRIS,3,0,5,2024
+TX-20241121-002,2024-11-21,Trixie Cat Tunnel,Mainan,17,12024,204408,Tunai,1,2,11,2024
+TX-20240817-001,2024-08-17,Life Cat Pouch - Kitten Tuna,Makanan,19,12024,228456,QRIS,2,0,8,2024
+TX-20241006-003,2024-10-06,Life Cat Can - Kitten Salmon,Makanan,7,4435,31045,Transfer,2,1,10,2024
+TX-20240113-002,2024-01-13,Life Cat Pouch Dus,Makanan,6,12024,72144,Tunai,2,2,1,2024
+TX-20240216-002,2024-02-16,Life Cat Pouch - Chicken Adult,Makanan,14,55833,781662,Transfer,2,1,2,2024
+TX-20241010-003,2024-10-10,Life Cat Pouch - Kitten Salmon,Makanan,10,12024,120240,Transfer,2,1,10,2024
+TX-20241121-003,2024-11-21,Life Cat Pouch - Salmon Adult,Makanan,1,250000,250000,Transfer,2,1,11,2024
+TX-20240118-003,2024-01-18,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,16,50000,800000,QRIS,3,0,1,2024
+TX-20241014-002,2024-10-14,Life Cat Pouch - Salmon Adult,Makanan,14,55833,781662,Tunai,2,2,10,2024
+TX-20240829-001,2024-08-29,Life Cat Pouch Dus,Makanan,1,130000,130000,Tunai,2,2,8,2024
+TX-20240406-004,2024-04-06,Life Cat Tofu - Macha,Makanan,6,130000,780000,Transfer,2,1,4,2024
+TX-20241011-002,2024-10-11,Life Cat Can - Chicken,Makanan,7,50000,350000,Transfer,2,1,10,2024
+TX-20240106-004,2024-01-06,Life Cat Can - Tuna,Makanan,16,12024,192384,Transfer,2,1,1,2024
+TX-20241130-002,2024-11-30,Life Cat Pouch - Kitten Tuna,Makanan,6,55833,334998,Transfer,2,1,11,2024
+TX-20240425-001,2024-04-25,Life Cat Can - Chicken,Makanan,15,55833,837495,Transfer,2,1,4,2024
+TX-20240911-005,2024-09-11,Life Cat Tofu - Macha,Makanan,2,12024,24048,QRIS,2,0,9,2024
+TX-20240504-003,2024-05-04,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,4,130000,520000,Tunai,3,2,5,2024
+TX-20240125-002,2024-01-25,Trixie Cat Tunnel,Mainan,8,4435,35480,Transfer,1,1,1,2024
+TX-20240916-001,2024-09-16,Life Cat Can - Tuna,Makanan,11,12024,132264,QRIS,2,0,9,2024
+TX-20241125-001,2024-11-25,EzyDog Chest Plate Harness for Dogs,Aksesoris,14,130000,1820000,Transfer,0,1,11,2024
+TX-20240911-006,2024-09-11,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,130000,1820000,QRIS,3,0,9,2024
+TX-20240909-001,2024-09-09,Life Cat Can - Kitten Tuna,Makanan,5,4435,22175,Tunai,2,2,9,2024
+TX-20240221-002,2024-02-21,EzyDog Chest Plate Harness for Dogs,Aksesoris,4,130000,520000,QRIS,0,0,2,2024
+TX-20240517-001,2024-05-17,Life Cat Pouch - Kitten Chicken,Makanan,12,12024,144288,QRIS,2,0,5,2024
+TX-20240526-003,2024-05-26,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,7,55833,390831,QRIS,3,0,5,2024
+TX-20240601-003,2024-06-01,Life Cat Can - Kitten Salmon,Makanan,13,4435,57655,Transfer,2,1,6,2024
+TX-20240203-004,2024-02-03,Life Cat Pouch - Chicken Adult,Makanan,9,50000,450000,Transfer,2,1,2,2024
+TX-20240403-002,2024-04-03,Life Cat Can - Tuna,Makanan,12,55833,669996,Transfer,2,1,4,2024
+TX-20240826-003,2024-08-26,Life Cat Tofu - Macha,Makanan,19,50000,950000,Transfer,2,1,8,2024
+TX-20240627-002,2024-06-27,Life Cat Can - Chicken,Makanan,9,130000,1170000,QRIS,2,0,6,2024
+TX-20240422-002,2024-04-22,Life Cat Pouch - Chicken Adult,Makanan,1,130000,130000,Tunai,2,2,4,2024
+TX-20240401-002,2024-04-01,Seresto Flea and Tick Collar for Dogs,Obat Hewan,14,130000,1820000,QRIS,3,0,4,2024
+TX-20241024-003,2024-10-24,Trixie Cat Scratching Post,Mainan,3,50000,150000,QRIS,1,0,10,2024
+TX-20240226-002,2024-02-26,Frontline Plus Flea & Tick Treatment,Obat Hewan,7,130000,910000,Transfer,3,1,2,2024
+TX-20240529-003,2024-05-29,Life Cat Tofu - Mango,Makanan,14,50000,700000,Transfer,2,1,5,2024
+TX-20241023-002,2024-10-23,Drontal Cat Dewormer,Obat Hewan,10,4435,44350,Transfer,3,1,10,2024
+TX-20240513-002,2024-05-13,Life Cat Pouch - Salmon Adult,Makanan,1,50000,50000,QRIS,2,0,5,2024
+TX-20240627-003,2024-06-27,Life Cat Can - Tuna,Makanan,17,130000,2210000,QRIS,2,0,6,2024
+TX-20240630-001,2024-06-30,Drontal Cat Dewormer,Obat Hewan,7,50000,350000,QRIS,3,0,6,2024
+TX-20240716-002,2024-07-16,Life Cat Can - Kitten Salmon,Makanan,16,55833,893328,Tunai,2,2,7,2024
+TX-20240116-003,2024-01-16,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,5,4435,22175,Transfer,3,1,1,2024
+TX-20240826-004,2024-08-26,Rogz Utility Dog Leash - Medium,Aksesoris,7,250000,1750000,Transfer,0,1,8,2024
+TX-20240415-002,2024-04-15,Life Cat Pouch Dus,Makanan,6,250000,1500000,Tunai,2,2,4,2024
+TX-20240309-006,2024-03-09,Life Cat Pouch - Chicken Tuna Adult,Makanan,14,50000,700000,QRIS,2,0,3,2024
+TX-20240517-002,2024-05-17,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,15,4435,66525,Transfer,3,1,5,2024
+TX-20240214-002,2024-02-14,Trixie Cat Scratching Post,Mainan,8,4435,35480,QRIS,1,0,2,2024
+TX-20241109-002,2024-11-09,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,12024,72144,Tunai,0,2,11,2024
+TX-20240926-004,2024-09-26,Life Cat Pouch Dus,Makanan,18,12024,216432,Transfer,2,1,9,2024
+TX-20240221-003,2024-02-21,Kong Puppy Teething Stick,Mainan,1,55833,55833,Transfer,1,1,2,2024
+TX-20240504-004,2024-05-04,Life Cat Tofu - Macha,Makanan,4,250000,1000000,Tunai,2,2,5,2024
+TX-20241027-005,2024-10-27,Life Cat Can - Kitten Salmon,Makanan,3,250000,750000,QRIS,2,0,10,2024
+TX-20240708-003,2024-07-08,Life Cat Pouch Dus,Makanan,17,130000,2210000,Transfer,2,1,7,2024
+TX-20240331-002,2024-03-31,Life Cat Pouch - Chicken Adult,Makanan,9,55833,502497,Tunai,2,2,3,2024
+TX-20241030-004,2024-10-30,EzyDog Chest Plate Harness for Dogs,Aksesoris,12,50000,600000,QRIS,0,0,10,2024
+TX-20240802-002,2024-08-02,Life Cat Pouch - Salmon Adult,Makanan,10,55833,558330,Tunai,2,2,8,2024
+TX-20240512-002,2024-05-12,Trixie Cat Tunnel,Mainan,19,12024,228456,QRIS,1,0,5,2024
+TX-20240427-003,2024-04-27,Kong Puppy Teething Stick,Mainan,7,4435,31045,Transfer,1,1,4,2024
+TX-20240610-005,2024-06-10,Life Cat Can - Kitten Salmon,Makanan,4,12024,48096,QRIS,2,0,6,2024
+TX-20241012-002,2024-10-12,Frontline Plus Flea & Tick Treatment,Obat Hewan,13,4435,57655,Transfer,3,1,10,2024
+TX-20240926-005,2024-09-26,Trixie Cat Tunnel,Mainan,4,12024,48096,Tunai,1,2,9,2024
+TX-20240614-002,2024-06-14,Seresto Flea and Tick Collar for Dogs,Obat Hewan,19,4435,84265,Transfer,3,1,6,2024
+TX-20240921-004,2024-09-21,Life Cat Can - Kitten Tuna,Makanan,9,12024,108216,Tunai,2,2,9,2024
+TX-20240607-003,2024-06-07,Nutri-Vet Multivitamin Chewable,Obat Hewan,14,12024,168336,Transfer,3,1,6,2024
+TX-20240221-004,2024-02-21,Trixie Cat Tunnel,Mainan,15,4435,66525,QRIS,1,0,2,2024
+TX-20241017-004,2024-10-17,Kong Puppy Teething Stick,Mainan,14,130000,1820000,QRIS,1,0,10,2024
+TX-20240927-004,2024-09-27,Life Cat Pouch Dus,Makanan,5,50000,250000,QRIS,2,0,9,2024
+TX-20240714-002,2024-07-14,EzyDog Chest Plate Harness for Dogs,Aksesoris,2,250000,500000,QRIS,0,0,7,2024
+TX-20240821-001,2024-08-21,Trixie Cat Tunnel,Mainan,15,50000,750000,Transfer,1,1,8,2024
+TX-20240522-003,2024-05-22,Trixie Cat Tunnel,Mainan,15,12024,180360,Transfer,1,1,5,2024
+TX-20240306-003,2024-03-06,Life Cat Pouch Dus,Makanan,18,4435,79830,QRIS,2,0,3,2024
+TX-20240906-002,2024-09-06,Life Cat Pouch - Salmon Adult,Makanan,14,4435,62090,QRIS,2,0,9,2024
+TX-20240617-003,2024-06-17,Life Cat Can - Kitten Tuna,Makanan,8,50000,400000,Transfer,2,1,6,2024
+TX-20241130-003,2024-11-30,Kong Classic Dog Chew Toy,Mainan,11,12024,132264,QRIS,1,0,11,2024
+TX-20240227-001,2024-02-27,Trixie Cat Laser Pointer,Mainan,11,50000,550000,Transfer,1,1,2,2024
+TX-20240826-005,2024-08-26,Trixie Cat Laser Pointer,Mainan,7,250000,1750000,Tunai,1,2,8,2024
+TX-20240728-001,2024-07-28,Kong Puppy Teething Stick,Mainan,3,4435,13305,Tunai,1,2,7,2024
+TX-20240205-003,2024-02-05,Kong Classic Dog Chew Toy,Mainan,1,55833,55833,Tunai,1,2,2,2024
+TX-20241104-003,2024-11-04,Kong Classic Dog Chew Toy,Mainan,5,50000,250000,Tunai,1,2,11,2024
+TX-20241031-001,2024-10-31,Trixie Cat Laser Pointer,Mainan,16,50000,800000,Tunai,1,2,10,2024
+TX-20241031-002,2024-10-31,Life Cat Pouch - Kitten Tuna,Makanan,14,130000,1820000,QRIS,2,0,10,2024
+TX-20240210-004,2024-02-10,Trixie Cat Laser Pointer,Mainan,16,12024,192384,Transfer,1,1,2,2024
+TX-20241009-002,2024-10-09,Life Cat Can - Kitten Tuna,Makanan,11,130000,1430000,Tunai,2,2,10,2024
+TX-20240712-001,2024-07-12,Life Cat Can - Kitten Tuna,Makanan,6,250000,1500000,QRIS,2,0,7,2024
+TX-20240114-002,2024-01-14,Life Cat Can - Kitten Salmon,Makanan,8,130000,1040000,Transfer,2,1,1,2024
+TX-20241008-001,2024-10-08,Life Cat Pouch - Chicken Tuna Adult,Makanan,5,250000,1250000,QRIS,2,0,10,2024
+TX-20240114-003,2024-01-14,Trixie Cat Laser Pointer,Mainan,11,55833,614163,QRIS,1,0,1,2024
+TX-20240522-004,2024-05-22,Life Cat Pouch - Salmon Adult,Makanan,1,55833,55833,Transfer,2,1,5,2024
+TX-20241021-001,2024-10-21,Life Cat Tofu - Mango,Makanan,4,130000,520000,Transfer,2,1,10,2024
+TX-20240401-003,2024-04-01,Life Cat Pouch - Chicken Adult,Makanan,8,4435,35480,Tunai,2,2,4,2024
+TX-20240523-003,2024-05-23,Life Cat Pouch - Kitten Salmon,Makanan,18,4435,79830,Tunai,2,2,5,2024
+TX-20241022-002,2024-10-22,Life Cat Pouch - Salmon Adult,Makanan,7,4435,31045,QRIS,2,0,10,2024
+TX-20240127-004,2024-01-27,Life Cat Can - Kitten Tuna,Makanan,3,12024,36072,Transfer,2,1,1,2024
+TX-20240425-002,2024-04-25,Life Cat Tofu - Mango,Makanan,6,55833,334998,QRIS,2,0,4,2024
+TX-20240727-001,2024-07-27,Rogz Utility Dog Leash - Medium,Aksesoris,11,4435,48785,Transfer,0,1,7,2024
+TX-20241101-005,2024-11-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,16,55833,893328,QRIS,2,0,11,2024
+TX-20240923-001,2024-09-23,Life Cat Can - Chicken,Makanan,8,50000,400000,Transfer,2,1,9,2024
+TX-20240415-003,2024-04-15,Trixie Cat Laser Pointer,Mainan,16,4435,70960,QRIS,1,0,4,2024
+TX-20241002-001,2024-10-02,Life Cat Pouch - Kitten Tuna,Makanan,3,4435,13305,Transfer,2,1,10,2024
+TX-20240421-004,2024-04-21,Life Cat Pouch - Salmon Adult,Makanan,2,55833,111666,Tunai,2,2,4,2024
+TX-20240215-003,2024-02-15,Life Cat Pouch - Kitten Salmon,Makanan,11,12024,132264,QRIS,2,0,2,2024
+TX-20240828-001,2024-08-28,Seresto Flea and Tick Collar for Dogs,Obat Hewan,10,4435,44350,Tunai,3,2,8,2024
+TX-20240823-004,2024-08-23,Life Cat Tofu - Macha,Makanan,7,250000,1750000,QRIS,2,0,8,2024
+TX-20240918-001,2024-09-18,Trixie Cat Scratching Post,Mainan,10,50000,500000,QRIS,1,0,9,2024
+TX-20240920-001,2024-09-20,Life Cat Tofu - Mango,Makanan,6,55833,334998,Transfer,2,1,9,2024
+TX-20240415-004,2024-04-15,Kong Puppy Teething Stick,Mainan,19,4435,84265,QRIS,1,0,4,2024
+TX-20240726-002,2024-07-26,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,18,50000,900000,QRIS,3,0,7,2024
+TX-20241108-002,2024-11-08,Seresto Flea and Tick Collar for Dogs,Obat Hewan,11,12024,132264,Transfer,3,1,11,2024
+TX-20240915-003,2024-09-15,Trixie Cat Scratching Post,Mainan,12,4435,53220,Tunai,1,2,9,2024
+TX-20240309-007,2024-03-09,EzyDog Chest Plate Harness for Dogs,Aksesoris,13,4435,57655,Tunai,0,2,3,2024
+TX-20240731-006,2024-07-31,Life Cat Can - Kitten Tuna,Makanan,18,55833,1004994,Transfer,2,1,7,2024
+TX-20240122-002,2024-01-22,Nutri-Vet Multivitamin Chewable,Obat Hewan,10,12024,120240,QRIS,3,0,1,2024
+TX-20240814-002,2024-08-14,Life Cat Pouch - Kitten Tuna,Makanan,4,4435,17740,QRIS,2,0,8,2024
+TX-20240107-001,2024-01-07,Life Cat Pouch - Kitten Salmon,Makanan,7,55833,390831,QRIS,2,0,1,2024
+TX-20240920-002,2024-09-20,Life Cat Pouch - Kitten Tuna,Makanan,3,50000,150000,Tunai,2,2,9,2024
+TX-20240608-003,2024-06-08,Trixie Cat Tunnel,Mainan,19,4435,84265,Transfer,1,1,6,2024
+TX-20240520-003,2024-05-20,Life Cat Pouch - Kitten Chicken,Makanan,17,55833,949161,Tunai,2,2,5,2024
+TX-20240328-004,2024-03-28,Life Cat Can - Kitten Salmon,Makanan,13,12024,156312,Tunai,2,2,3,2024
+TX-20241130-004,2024-11-30,Nutri-Vet Multivitamin Chewable,Obat Hewan,3,4435,13305,Transfer,3,1,11,2024
+TX-20240129-002,2024-01-29,Life Cat Pouch - Kitten Chicken,Makanan,3,12024,36072,QRIS,2,0,1,2024
+TX-20241130-005,2024-11-30,Life Cat Can - Tuna,Makanan,19,12024,228456,QRIS,2,0,11,2024
+TX-20240202-002,2024-02-02,Life Cat Pouch Dus,Makanan,5,55833,279165,QRIS,2,0,2,2024
+TX-20240616-001,2024-06-16,Kong Puppy Teething Stick,Mainan,15,55833,837495,QRIS,1,0,6,2024
+TX-20240502-003,2024-05-02,EzyDog Chest Plate Harness for Dogs,Aksesoris,16,55833,893328,QRIS,0,0,5,2024
+TX-20240119-001,2024-01-19,Frontline Plus Flea & Tick Treatment,Obat Hewan,3,50000,150000,QRIS,3,0,1,2024
+TX-20240922-001,2024-09-22,Life Cat Tofu - Mango,Makanan,7,55833,390831,Transfer,2,1,9,2024
+TX-20240614-003,2024-06-14,Frontline Plus Flea & Tick Treatment,Obat Hewan,15,4435,66525,Transfer,3,1,6,2024
+TX-20240811-003,2024-08-11,Seresto Flea and Tick Collar for Dogs,Obat Hewan,13,50000,650000,Transfer,3,1,8,2024
+TX-20241124-001,2024-11-24,Life Cat Pouch - Kitten Tuna,Makanan,2,250000,500000,Tunai,2,2,11,2024
+TX-20240502-004,2024-05-02,Kong Puppy Teething Stick,Mainan,14,55833,781662,Tunai,1,2,5,2024
+TX-20240213-005,2024-02-13,EzyDog Chest Plate Harness for Dogs,Aksesoris,15,50000,750000,Tunai,0,2,2,2024
+TX-20240630-002,2024-06-30,Kong Classic Dog Chew Toy,Mainan,14,12024,168336,QRIS,1,0,6,2024
+TX-20240514-003,2024-05-14,Life Cat Pouch Dus,Makanan,5,55833,279165,Transfer,2,1,5,2024
+TX-20240323-003,2024-03-23,Life Cat Pouch - Kitten Salmon,Makanan,9,50000,450000,QRIS,2,0,3,2024
+TX-20240803-001,2024-08-03,Life Cat Can - Kitten Salmon,Makanan,11,55833,614163,Transfer,2,1,8,2024
+TX-20240128-004,2024-01-28,Life Cat Pouch - Salmon Adult,Makanan,19,55833,1060827,QRIS,2,0,1,2024
+TX-20241012-004,2024-10-12,Nutri-Vet Multivitamin Chewable,Obat Hewan,1,250000,250000,QRIS,3,0,10,2024
+TX-20240128-005,2024-01-28,Kong Classic Dog Chew Toy,Mainan,17,50000,850000,Transfer,1,1,1,2024
+TX-20240905-001,2024-09-05,Life Cat Can - Chicken,Makanan,10,4435,44350,QRIS,2,0,9,2024
+TX-20240910-003,2024-09-10,Life Cat Tofu - Mango,Makanan,8,4435,35480,Tunai,2,2,9,2024
+TX-20240421-005,2024-04-21,Drontal Cat Dewormer,Obat Hewan,3,12024,36072,Tunai,3,2,4,2024
+TX-20240117-002,2024-01-17,Life Cat Can - Tuna,Makanan,16,50000,800000,QRIS,2,0,1,2024
+TX-20241115-002,2024-11-15,Rogz Utility Dog Leash - Medium,Aksesoris,13,4435,57655,QRIS,0,0,11,2024
+TX-20240628-002,2024-06-28,Life Cat Tofu - Macha,Makanan,10,130000,1300000,QRIS,2,0,6,2024
+TX-20240928-005,2024-09-28,Life Cat Tofu - Macha,Makanan,1,12024,12024,Transfer,2,1,9,2024
+TX-20240925-001,2024-09-25,Life Cat Tofu - Macha,Makanan,12,12024,144288,Tunai,2,2,9,2024
+TX-20240215-004,2024-02-15,Drontal Cat Dewormer,Obat Hewan,13,130000,1690000,Transfer,3,1,2,2024
+TX-20241019-003,2024-10-19,Life Cat Tofu - Mango,Makanan,17,50000,850000,Transfer,2,1,10,2024
+TX-20240216-003,2024-02-16,Life Cat Pouch - Chicken Adult,Makanan,12,55833,669996,Tunai,2,2,2,2024
+TX-20240105-001,2024-01-05,Kong Classic Dog Chew Toy,Mainan,1,12024,12024,Tunai,1,2,1,2024
+TX-20240922-002,2024-09-22,EzyDog Chest Plate Harness for Dogs,Aksesoris,5,250000,1250000,QRIS,0,0,9,2024
+TX-20240426-004,2024-04-26,Kong Classic Dog Chew Toy,Mainan,14,55833,781662,Tunai,1,2,4,2024
+TX-20240104-003,2024-01-04,Life Cat Pouch - Chicken Tuna Adult,Makanan,8,12024,96192,Transfer,2,1,1,2024
+TX-20240416-005,2024-04-16,Kong Puppy Teething Stick,Mainan,7,12024,84168,Tunai,1,2,4,2024
+TX-20240308-002,2024-03-08,Frontline Plus Flea & Tick Treatment,Obat Hewan,9,12024,108216,QRIS,3,0,3,2024
+TX-20240430-003,2024-04-30,Life Cat Pouch - Chicken Adult,Makanan,11,130000,1430000,QRIS,2,0,4,2024
+TX-20241110-002,2024-11-10,Trixie Cat Scratching Post,Mainan,2,12024,24048,QRIS,1,0,11,2024
+TX-20240206-001,2024-02-06,Life Cat Can - Kitten Salmon,Makanan,18,55833,1004994,QRIS,2,0,2,2024
+TX-20240609-003,2024-06-09,Life Cat Can - Kitten Tuna,Makanan,8,130000,1040000,QRIS,2,0,6,2024
+TX-20240605-002,2024-06-05,Life Cat Pouch - Chicken Tuna Adult,Makanan,11,55833,614163,QRIS,2,0,6,2024
+TX-20240531-006,2024-05-31,Trixie Cat Scratching Post,Mainan,9,4435,39915,Tunai,1,2,5,2024
+TX-20240815-002,2024-08-15,Trixie Cat Tunnel,Mainan,15,130000,1950000,QRIS,1,0,8,2024
+TX-20240813-001,2024-08-13,Life Cat Pouch - Chicken Adult,Makanan,4,4435,17740,Tunai,2,2,8,2024
+TX-20240908-002,2024-09-08,Life Cat Can - Chicken,Makanan,15,130000,1950000,QRIS,2,0,9,2024
+TX-20240531-007,2024-05-31,Life Cat Tofu - Mango,Makanan,14,4435,62090,QRIS,2,0,5,2024
+TX-20240209-001,2024-02-09,Trixie Cat Laser Pointer,Mainan,7,12024,84168,Transfer,1,1,2,2024
+TX-20240227-002,2024-02-27,Life Cat Can - Kitten Tuna,Makanan,15,4435,66525,QRIS,2,0,2,2024
+TX-20240531-008,2024-05-31,Life Cat Tofu - Mango,Makanan,6,250000,1500000,QRIS,2,0,5,2024
+TX-20241018-002,2024-10-18,Kong Puppy Teething Stick,Mainan,17,50000,850000,Tunai,1,2,10,2024
+TX-20240603-003,2024-06-03,Life Cat Pouch - Kitten Salmon,Makanan,17,55833,949161,Transfer,2,1,6,2024
+TX-20240306-004,2024-03-06,Life Cat Can - Tuna,Makanan,9,50000,450000,Tunai,2,2,3,2024
+TX-20240106-005,2024-01-06,Seresto Flea and Tick Collar for Dogs,Obat Hewan,13,12024,156312,QRIS,3,0,1,2024
+TX-20240728-002,2024-07-28,Life Cat Can - Tuna,Makanan,17,12024,204408,Tunai,2,2,7,2024
+TX-20240729-003,2024-07-29,Life Cat Pouch - Kitten Tuna,Makanan,6,50000,300000,QRIS,2,0,7,2024
+TX-20240915-004,2024-09-15,Drontal Cat Dewormer,Obat Hewan,8,12024,96192,QRIS,3,0,9,2024
+TX-20240818-001,2024-08-18,Life Cat Pouch - Chicken Tuna Adult,Makanan,9,12024,108216,Transfer,2,1,8,2024
+TX-20240503-001,2024-05-03,Kong Puppy Teething Stick,Mainan,16,12024,192384,QRIS,1,0,5,2024
+TX-20240716-003,2024-07-16,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,7,4435,31045,Tunai,3,2,7,2024
+TX-20240923-002,2024-09-23,Life Cat Pouch - Chicken Tuna Adult,Makanan,2,12024,24048,QRIS,2,0,9,2024
+TX-20240708-004,2024-07-08,Seresto Flea and Tick Collar for Dogs,Obat Hewan,14,12024,168336,Transfer,3,1,7,2024
+TX-20240131-001,2024-01-31,Rogz Utility Dog Leash - Medium,Aksesoris,12,130000,1560000,Transfer,0,1,1,2024
+TX-20240129-003,2024-01-29,Trixie Cat Scratching Post,Mainan,14,50000,700000,Tunai,1,2,1,2024
+TX-20240207-002,2024-02-07,Nutri-Vet Multivitamin Chewable,Obat Hewan,7,130000,910000,QRIS,3,0,2,2024
+TX-20240831-002,2024-08-31,Life Cat Tofu - Macha,Makanan,1,50000,50000,Tunai,2,2,8,2024
+TX-20241007-001,2024-10-07,Drontal Cat Dewormer,Obat Hewan,14,4435,62090,QRIS,3,0,10,2024
+TX-20241003-002,2024-10-03,Life Cat Pouch - Kitten Tuna,Makanan,8,250000,2000000,Tunai,2,2,10,2024
+TX-20240205-004,2024-02-05,Life Cat Tofu - Macha,Makanan,5,250000,1250000,Transfer,2,1,2,2024
+TX-20240129-004,2024-01-29,Drontal Cat Dewormer,Obat Hewan,19,4435,84265,Tunai,3,2,1,2024
+TX-20240209-002,2024-02-09,Trixie Cat Scratching Post,Mainan,7,50000,350000,Tunai,1,2,2,2024
+TX-20240614-004,2024-06-14,Rogz Utility Dog Leash - Medium,Aksesoris,7,12024,84168,Tunai,0,2,6,2024
+TX-20240223-002,2024-02-23,EzyDog Chest Plate Harness for Dogs,Aksesoris,8,250000,2000000,Transfer,0,1,2,2024
+TX-20241114-002,2024-11-14,Drontal Cat Dewormer,Obat Hewan,7,130000,910000,QRIS,3,0,11,2024
+TX-20240508-002,2024-05-08,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,2,55833,111666,QRIS,3,0,5,2024
+TX-20240523-004,2024-05-23,Kong Puppy Teething Stick,Mainan,12,50000,600000,QRIS,1,0,5,2024
+TX-20240920-003,2024-09-20,Life Cat Pouch - Chicken Tuna Adult,Makanan,2,4435,8870,QRIS,2,0,9,2024
+TX-20240806-002,2024-08-06,Life Cat Pouch - Chicken Adult,Makanan,17,12024,204408,QRIS,2,0,8,2024
+TX-20240529-004,2024-05-29,Drontal Cat Dewormer,Obat Hewan,8,130000,1040000,Transfer,3,1,5,2024
+TX-20240715-004,2024-07-15,Life Cat Pouch - Kitten Chicken,Makanan,6,130000,780000,Transfer,2,1,7,2024
+TX-20240122-003,2024-01-22,Life Cat Pouch - Kitten Tuna,Makanan,7,12024,84168,QRIS,2,0,1,2024
+TX-20240930-005,2024-09-30,Trixie Cat Scratching Post,Mainan,2,4435,8870,Transfer,1,1,9,2024
+TX-20241113-003,2024-11-13,Life Cat Pouch - Chicken Adult,Makanan,17,50000,850000,Transfer,2,1,11,2024
+TX-20240109-006,2024-01-09,Life Cat Pouch - Chicken Tuna Adult,Makanan,17,50000,850000,Tunai,2,2,1,2024
+TX-20240223-003,2024-02-23,Kong Classic Dog Chew Toy,Mainan,14,130000,1820000,Tunai,1,2,2,2024
+TX-20241122-002,2024-11-22,Life Cat Tofu - Macha,Makanan,11,55833,614163,Tunai,2,2,11,2024
+TX-20240414-001,2024-04-14,Life Cat Tofu - Mango,Makanan,15,4435,66525,Tunai,2,2,4,2024
+TX-20240112-002,2024-01-12,Life Cat Can - Kitten Tuna,Makanan,3,50000,150000,Tunai,2,2,1,2024
+TX-20240303-003,2024-03-03,Kong Puppy Teething Stick,Mainan,12,50000,600000,Transfer,1,1,3,2024
+TX-20241003-003,2024-10-03,Life Cat Pouch - Chicken Adult,Makanan,17,130000,2210000,Transfer,2,1,10,2024
+TX-20241110-003,2024-11-10,Life Cat Pouch - Kitten Tuna,Makanan,7,130000,910000,Transfer,2,1,11,2024
+TX-20240208-001,2024-02-08,Nutri-Vet Multivitamin Chewable,Obat Hewan,16,130000,2080000,Tunai,3,2,2,2024
+TX-20241018-003,2024-10-18,Life Cat Tofu - Mango,Makanan,6,250000,1500000,QRIS,2,0,10,2024
+TX-20240131-002,2024-01-31,Trixie Cat Tunnel,Mainan,2,12024,24048,Transfer,1,1,1,2024
+TX-20240103-003,2024-01-03,Life Cat Pouch - Chicken Tuna Adult,Makanan,18,50000,900000,QRIS,2,0,1,2024
+TX-20240511-001,2024-05-11,Life Cat Pouch - Chicken Tuna Adult,Makanan,2,50000,100000,Transfer,2,1,5,2024
+TX-20240128-006,2024-01-28,Life Cat Pouch - Chicken Adult,Makanan,7,250000,1750000,Transfer,2,1,1,2024
+TX-20240708-005,2024-07-08,Life Cat Can - Kitten Tuna,Makanan,16,55833,893328,Tunai,2,2,7,2024
+TX-20240829-002,2024-08-29,Frontline Plus Flea & Tick Treatment,Obat Hewan,11,12024,132264,QRIS,3,0,8,2024
+TX-20240212-001,2024-02-12,Life Cat Can - Chicken,Makanan,16,130000,2080000,QRIS,2,0,2,2024
+TX-20241017-005,2024-10-17,Life Cat Pouch - Kitten Tuna,Makanan,15,12024,180360,Transfer,2,1,10,2024
+TX-20240225-002,2024-02-25,Drontal Cat Dewormer,Obat Hewan,17,12024,204408,Transfer,3,1,2,2024
+TX-20240625-002,2024-06-25,Life Cat Can - Tuna,Makanan,15,130000,1950000,QRIS,2,0,6,2024
+TX-20241031-003,2024-10-31,EzyDog Chest Plate Harness for Dogs,Aksesoris,16,130000,2080000,Transfer,0,1,10,2024
+TX-20240117-003,2024-01-17,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,10,4435,44350,Tunai,3,2,1,2024
+TX-20240111-002,2024-01-11,Trixie Cat Laser Pointer,Mainan,13,50000,650000,QRIS,1,0,1,2024
+TX-20241029-003,2024-10-29,Seresto Flea and Tick Collar for Dogs,Obat Hewan,3,130000,390000,Tunai,3,2,10,2024
+TX-20240228-002,2024-02-28,Kong Classic Dog Chew Toy,Mainan,2,12024,24048,Transfer,1,1,2,2024
+TX-20241013-002,2024-10-13,Trixie Cat Scratching Post,Mainan,16,55833,893328,Tunai,1,2,10,2024
+TX-20240606-002,2024-06-06,Kong Puppy Teething Stick,Mainan,16,4435,70960,Tunai,1,2,6,2024
+TX-20240118-004,2024-01-18,Kong Puppy Teething Stick,Mainan,2,55833,111666,Transfer,1,1,1,2024
+TX-20241031-004,2024-10-31,Life Cat Pouch - Chicken Tuna Adult,Makanan,18,55833,1004994,Transfer,2,1,10,2024
+TX-20241016-002,2024-10-16,EzyDog Chest Plate Harness for Dogs,Aksesoris,17,50000,850000,Transfer,0,1,10,2024
+TX-20240831-003,2024-08-31,Drontal Cat Dewormer,Obat Hewan,17,12024,204408,QRIS,3,0,8,2024
+TX-20240303-004,2024-03-03,Life Cat Can - Chicken,Makanan,10,55833,558330,Tunai,2,2,3,2024
+TX-20240926-006,2024-09-26,Life Cat Pouch - Chicken Adult,Makanan,9,12024,108216,QRIS,2,0,9,2024
+TX-20240721-003,2024-07-21,Trixie Cat Scratching Post,Mainan,17,50000,850000,Tunai,1,2,7,2024
+TX-20240503-002,2024-05-03,Seresto Flea and Tick Collar for Dogs,Obat Hewan,10,55833,558330,QRIS,3,0,5,2024
+TX-20240818-002,2024-08-18,Life Cat Pouch Dus,Makanan,13,4435,57655,Tunai,2,2,8,2024
+TX-20240704-002,2024-07-04,Trixie Cat Tunnel,Mainan,19,12024,228456,Tunai,1,2,7,2024
+TX-20240624-003,2024-06-24,Trixie Cat Laser Pointer,Mainan,4,12024,48096,QRIS,1,0,6,2024
+TX-20240613-006,2024-06-13,Life Cat Pouch - Kitten Salmon,Makanan,2,250000,500000,Tunai,2,2,6,2024
+TX-20240531-009,2024-05-31,Life Cat Pouch - Kitten Salmon,Makanan,16,12024,192384,QRIS,2,0,5,2024
+TX-20240718-002,2024-07-18,Life Cat Can - Chicken,Makanan,18,4435,79830,QRIS,2,0,7,2024
+TX-20240520-004,2024-05-20,Kong Puppy Teething Stick,Mainan,16,12024,192384,Transfer,1,1,5,2024
+TX-20241029-004,2024-10-29,EzyDog Chest Plate Harness for Dogs,Aksesoris,13,55833,725829,Transfer,0,1,10,2024
+TX-20241031-005,2024-10-31,Drontal Cat Dewormer,Obat Hewan,1,12024,12024,Tunai,3,2,10,2024
+TX-20240530-002,2024-05-30,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,10,130000,1300000,Transfer,3,1,5,2024
+TX-20240111-003,2024-01-11,Seresto Flea and Tick Collar for Dogs,Obat Hewan,17,12024,204408,QRIS,3,0,1,2024
+TX-20240914-002,2024-09-14,Seresto Flea and Tick Collar for Dogs,Obat Hewan,4,4435,17740,Tunai,3,2,9,2024
+TX-20240523-005,2024-05-23,Trixie Cat Laser Pointer,Mainan,19,4435,84265,Tunai,1,2,5,2024
+TX-20240305-001,2024-03-05,Life Cat Can - Tuna,Makanan,15,12024,180360,QRIS,2,0,3,2024
+TX-20240518-003,2024-05-18,Life Cat Tofu - Macha,Makanan,7,250000,1750000,QRIS,2,0,5,2024
+TX-20240604-002,2024-06-04,Life Cat Can - Kitten Salmon,Makanan,19,4435,84265,Transfer,2,1,6,2024
+TX-20241105-001,2024-11-05,Life Cat Pouch - Kitten Tuna,Makanan,14,4435,62090,QRIS,2,0,11,2024
+TX-20240905-002,2024-09-05,Life Cat Can - Kitten Salmon,Makanan,14,55833,781662,Transfer,2,1,9,2024
+TX-20240610-007,2024-06-10,Life Cat Pouch - Salmon Adult,Makanan,1,12024,12024,QRIS,2,0,6,2024
+TX-20240714-003,2024-07-14,Life Cat Can - Tuna,Makanan,5,130000,650000,Tunai,2,2,7,2024
+TX-20240908-003,2024-09-08,Life Cat Can - Chicken,Makanan,6,250000,1500000,QRIS,2,0,9,2024
+TX-20241106-006,2024-11-06,Rogz Utility Dog Leash - Medium,Aksesoris,8,55833,446664,Transfer,0,1,11,2024
+TX-20240330-002,2024-03-30,EzyDog Chest Plate Harness for Dogs,Aksesoris,17,50000,850000,Tunai,0,2,3,2024
+TX-20240721-004,2024-07-21,Life Cat Tofu - Mango,Makanan,8,55833,446664,QRIS,2,0,7,2024
+TX-20240910-004,2024-09-10,Trixie Cat Laser Pointer,Mainan,9,55833,502497,Tunai,1,2,9,2024
+TX-20240401-004,2024-04-01,Life Cat Pouch - Kitten Chicken,Makanan,17,12024,204408,Tunai,2,2,4,2024
+TX-20240712-002,2024-07-12,Life Cat Pouch - Kitten Salmon,Makanan,6,4435,26610,QRIS,2,0,7,2024
+TX-20240830-003,2024-08-30,EzyDog Chest Plate Harness for Dogs,Aksesoris,18,4435,79830,Tunai,0,2,8,2024
+TX-20240902-004,2024-09-02,Seresto Flea and Tick Collar for Dogs,Obat Hewan,10,55833,558330,QRIS,3,0,9,2024
+TX-20240530-003,2024-05-30,Life Cat Pouch - Kitten Chicken,Makanan,13,55833,725829,Transfer,2,1,5,2024
+TX-20240325-003,2024-03-25,Drontal Cat Dewormer,Obat Hewan,11,12024,132264,Transfer,3,1,3,2024
+TX-20241008-002,2024-10-08,Trixie Cat Laser Pointer,Mainan,2,12024,24048,Tunai,1,2,10,2024
+TX-20241001-005,2024-10-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,2,250000,500000,Tunai,2,2,10,2024
+TX-20240611-001,2024-06-11,Life Cat Tofu - Macha,Makanan,3,50000,150000,QRIS,2,0,6,2024
+TX-20240325-004,2024-03-25,Kong Puppy Teething Stick,Mainan,16,50000,800000,QRIS,1,0,3,2024
+TX-20240204-005,2024-02-04,Life Cat Can - Kitten Tuna,Makanan,19,4435,84265,Transfer,2,1,2,2024
+TX-20240813-002,2024-08-13,Life Cat Pouch - Chicken Tuna Adult,Makanan,13,130000,1690000,QRIS,2,0,8,2024
+TX-20240806-003,2024-08-06,Life Cat Pouch Dus,Makanan,2,4435,8870,QRIS,2,0,8,2024
+TX-20240505-003,2024-05-05,Trixie Cat Scratching Post,Mainan,15,55833,837495,Transfer,1,1,5,2024
+TX-20240509-003,2024-05-09,Kong Puppy Teething Stick,Mainan,8,50000,400000,Transfer,1,1,5,2024
+TX-20240418-002,2024-04-18,EzyDog Chest Plate Harness for Dogs,Aksesoris,17,55833,949161,Transfer,0,1,4,2024
+TX-20240203-005,2024-02-03,Kong Classic Dog Chew Toy,Mainan,15,12024,180360,Tunai,1,2,2,2024
+TX-20240419-001,2024-04-19,Life Cat Pouch - Salmon Adult,Makanan,15,55833,837495,Transfer,2,1,4,2024
+TX-20241107-003,2024-11-07,Frontline Plus Flea & Tick Treatment,Obat Hewan,6,130000,780000,Tunai,3,2,11,2024
+TX-20240719-002,2024-07-19,Life Cat Can - Chicken,Makanan,9,130000,1170000,Transfer,2,1,7,2024
+TX-20240418-003,2024-04-18,Trixie Cat Tunnel,Mainan,11,55833,614163,Tunai,1,2,4,2024
+TX-20241128-001,2024-11-28,Kong Puppy Teething Stick,Mainan,15,4435,66525,Tunai,1,2,11,2024
+TX-20240605-003,2024-06-05,Life Cat Can - Chicken,Makanan,5,130000,650000,Tunai,2,2,6,2024
+TX-20240112-003,2024-01-12,Life Cat Pouch - Kitten Chicken,Makanan,2,50000,100000,Tunai,2,2,1,2024
+TX-20240606-003,2024-06-06,Trixie Cat Tunnel,Mainan,5,12024,60120,Transfer,1,1,6,2024
+TX-20240918-002,2024-09-18,Trixie Cat Tunnel,Mainan,10,55833,558330,QRIS,1,0,9,2024
+TX-20240708-006,2024-07-08,Seresto Flea and Tick Collar for Dogs,Obat Hewan,17,4435,75395,Transfer,3,1,7,2024
+TX-20240426-005,2024-04-26,Trixie Cat Scratching Post,Mainan,2,50000,100000,QRIS,1,0,4,2024
+TX-20240425-003,2024-04-25,Life Cat Can - Kitten Tuna,Makanan,10,4435,44350,Transfer,2,1,4,2024
+TX-20241117-005,2024-11-17,Kong Puppy Teething Stick,Mainan,10,12024,120240,Transfer,1,1,11,2024
+TX-20240827-002,2024-08-27,Kong Puppy Teething Stick,Mainan,15,130000,1950000,Transfer,1,1,8,2024
+TX-20240624-004,2024-06-24,Rogz Utility Dog Leash - Medium,Aksesoris,18,50000,900000,QRIS,0,0,6,2024
+TX-20240620-001,2024-06-20,Life Cat Can - Tuna,Makanan,2,130000,260000,QRIS,2,0,6,2024
+TX-20240126-003,2024-01-26,Trixie Cat Tunnel,Mainan,10,55833,558330,Tunai,1,2,1,2024
+TX-20240416-006,2024-04-16,Trixie Cat Laser Pointer,Mainan,15,12024,180360,Transfer,1,1,4,2024
+TX-20240609-005,2024-06-09,Life Cat Pouch - Chicken Tuna Adult,Makanan,3,55833,167499,QRIS,2,0,6,2024
+TX-20240412-002,2024-04-12,Life Cat Pouch Dus,Makanan,13,12024,156312,Tunai,2,2,4,2024
+TX-20240712-003,2024-07-12,Life Cat Pouch - Chicken Adult,Makanan,2,12024,24048,Tunai,2,2,7,2024
+TX-20240816-002,2024-08-16,Life Cat Pouch - Kitten Salmon,Makanan,11,4435,48785,Transfer,2,1,8,2024
+TX-20240911-007,2024-09-11,Frontline Plus Flea & Tick Treatment,Obat Hewan,5,12024,60120,Transfer,3,1,9,2024
+TX-20240817-002,2024-08-17,Seresto Flea and Tick Collar for Dogs,Obat Hewan,12,55833,669996,Tunai,3,2,8,2024
+TX-20240826-006,2024-08-26,Life Cat Can - Tuna,Makanan,6,55833,334998,QRIS,2,0,8,2024
+TX-20240914-003,2024-09-14,Nutri-Vet Multivitamin Chewable,Obat Hewan,18,4435,79830,Transfer,3,1,9,2024
+TX-20240405-004,2024-04-05,Life Cat Can - Kitten Tuna,Makanan,8,250000,2000000,Tunai,2,2,4,2024
+TX-20240626-004,2024-06-26,Kong Classic Dog Chew Toy,Mainan,17,4435,75395,Transfer,1,1,6,2024
+TX-20241027-006,2024-10-27,Trixie Cat Laser Pointer,Mainan,5,4435,22175,QRIS,1,0,10,2024
+TX-20240110-004,2024-01-10,Life Cat Tofu - Macha,Makanan,15,55833,837495,QRIS,2,0,1,2024
+TX-20240430-004,2024-04-30,Life Cat Tofu - Macha,Makanan,17,130000,2210000,QRIS,2,0,4,2024
+TX-20240412-003,2024-04-12,Life Cat Can - Tuna,Makanan,9,12024,108216,Transfer,2,1,4,2024
+TX-20240530-005,2024-05-30,Kong Puppy Teething Stick,Mainan,14,50000,700000,Transfer,1,1,5,2024
+TX-20240707-003,2024-07-07,Seresto Flea and Tick Collar for Dogs,Obat Hewan,16,12024,192384,Tunai,3,2,7,2024
+TX-20240413-002,2024-04-13,Life Cat Can - Chicken,Makanan,16,130000,2080000,QRIS,2,0,4,2024
+TX-20240916-002,2024-09-16,Life Cat Pouch - Chicken Adult,Makanan,19,50000,950000,QRIS,2,0,9,2024
+TX-20240929-004,2024-09-29,Life Cat Pouch Dus,Makanan,6,50000,300000,Tunai,2,2,9,2024
+TX-20240525-001,2024-05-25,Life Cat Pouch - Kitten Chicken,Makanan,1,4435,4435,QRIS,2,0,5,2024
+TX-20240517-003,2024-05-17,Seresto Flea and Tick Collar for Dogs,Obat Hewan,3,4435,13305,QRIS,3,0,5,2024
+TX-20240908-004,2024-09-08,Frontline Plus Flea & Tick Treatment,Obat Hewan,2,130000,260000,QRIS,3,0,9,2024
+TX-20240510-001,2024-05-10,Life Cat Pouch - Salmon Adult,Makanan,16,4435,70960,Transfer,2,1,5,2024
+TX-20240222-001,2024-02-22,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,19,12024,228456,Transfer,3,1,2,2024
+TX-20240116-005,2024-01-16,Life Cat Can - Kitten Salmon,Makanan,5,4435,22175,Transfer,2,1,1,2024
+TX-20240201-002,2024-02-01,Trixie Cat Tunnel,Mainan,6,130000,780000,Tunai,1,2,2,2024
+TX-20240916-003,2024-09-16,Life Cat Can - Kitten Salmon,Makanan,8,250000,2000000,QRIS,2,0,9,2024
+TX-20240901-004,2024-09-01,Life Cat Pouch Dus,Makanan,5,130000,650000,Transfer,2,1,9,2024
+TX-20240528-004,2024-05-28,Life Cat Pouch - Chicken Tuna Adult,Makanan,19,4435,84265,Tunai,2,2,5,2024
+TX-20240612-002,2024-06-12,Life Cat Tofu - Macha,Makanan,6,130000,780000,Tunai,2,2,6,2024
+TX-20240314-003,2024-03-14,Life Cat Can - Chicken,Makanan,9,130000,1170000,Transfer,2,1,3,2024
+TX-20240710-002,2024-07-10,Kong Puppy Teething Stick,Mainan,12,130000,1560000,Transfer,1,1,7,2024
+TX-20240715-005,2024-07-15,Life Cat Pouch Dus,Makanan,5,250000,1250000,Transfer,2,1,7,2024
+TX-20241005-005,2024-10-05,Life Cat Pouch - Chicken Tuna Adult,Makanan,11,130000,1430000,Transfer,2,1,10,2024
+TX-20240622-001,2024-06-22,Rogz Utility Dog Leash - Medium,Aksesoris,14,130000,1820000,Transfer,0,1,6,2024
+TX-20241108-003,2024-11-08,Life Cat Pouch - Kitten Chicken,Makanan,18,55833,1004994,Tunai,2,2,11,2024
+TX-20240116-006,2024-01-16,Life Cat Pouch Dus,Makanan,12,55833,669996,Tunai,2,2,1,2024
+TX-20240411-002,2024-04-11,Nutri-Vet Multivitamin Chewable,Obat Hewan,9,4435,39915,Tunai,3,2,4,2024
+TX-20240304-003,2024-03-04,Life Cat Tofu - Mango,Makanan,18,12024,216432,Tunai,2,2,3,2024
+TX-20241126-001,2024-11-26,Kong Classic Dog Chew Toy,Mainan,4,55833,223332,QRIS,1,0,11,2024
+TX-20240804-003,2024-08-04,Life Cat Tofu - Mango,Makanan,9,12024,108216,Tunai,2,2,8,2024
+TX-20240808-002,2024-08-08,Frontline Plus Flea & Tick Treatment,Obat Hewan,17,130000,2210000,Transfer,3,1,8,2024
+TX-20240902-005,2024-09-02,Rogz Utility Dog Leash - Medium,Aksesoris,17,130000,2210000,Tunai,0,2,9,2024
+TX-20241109-003,2024-11-09,Kong Classic Dog Chew Toy,Mainan,5,130000,650000,QRIS,1,0,11,2024
+TX-20240505-004,2024-05-05,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,5,130000,650000,QRIS,3,0,5,2024
+TX-20240902-006,2024-09-02,Trixie Cat Laser Pointer,Mainan,13,12024,156312,Transfer,1,1,9,2024
+TX-20240903-001,2024-09-03,Seresto Flea and Tick Collar for Dogs,Obat Hewan,11,50000,550000,Tunai,3,2,9,2024
+TX-20240424-003,2024-04-24,Life Cat Pouch - Salmon Adult,Makanan,10,12024,120240,QRIS,2,0,4,2024
+TX-20240829-003,2024-08-29,Life Cat Can - Chicken,Makanan,12,4435,53220,QRIS,2,0,8,2024
+TX-20240808-003,2024-08-08,EzyDog Chest Plate Harness for Dogs,Aksesoris,19,4435,84265,Transfer,0,1,8,2024
+TX-20240522-005,2024-05-22,Life Cat Can - Kitten Tuna,Makanan,12,12024,144288,Transfer,2,1,5,2024
+TX-20240331-003,2024-03-31,Life Cat Pouch - Chicken Tuna Adult,Makanan,1,4435,4435,Transfer,2,1,3,2024
+TX-20240106-006,2024-01-06,Kong Puppy Teething Stick,Mainan,8,130000,1040000,Tunai,1,2,1,2024
+TX-20240311-004,2024-03-11,Nutri-Vet Multivitamin Chewable,Obat Hewan,18,55833,1004994,QRIS,3,0,3,2024
+TX-20240815-003,2024-08-15,Trixie Cat Scratching Post,Mainan,11,4435,48785,Tunai,1,2,8,2024
+TX-20241004-004,2024-10-04,Kong Classic Dog Chew Toy,Mainan,17,4435,75395,Transfer,1,1,10,2024
+TX-20240317-001,2024-03-17,Trixie Cat Laser Pointer,Mainan,18,55833,1004994,Transfer,1,1,3,2024
+TX-20240801-005,2024-08-01,Life Cat Can - Kitten Tuna,Makanan,5,250000,1250000,QRIS,2,0,8,2024
+TX-20240706-002,2024-07-06,Life Cat Pouch - Kitten Tuna,Makanan,17,50000,850000,Transfer,2,1,7,2024
+TX-20240118-005,2024-01-18,Life Cat Pouch - Chicken Tuna Adult,Makanan,7,250000,1750000,Tunai,2,2,1,2024
+TX-20240205-005,2024-02-05,Life Cat Can - Kitten Salmon,Makanan,2,130000,260000,QRIS,2,0,2,2024
+TX-20241029-005,2024-10-29,Life Cat Pouch Dus,Makanan,10,130000,1300000,Tunai,2,2,10,2024
+TX-20240601-004,2024-06-01,Life Cat Can - Kitten Tuna,Makanan,7,250000,1750000,Tunai,2,2,6,2024
+TX-20241124-002,2024-11-24,Life Cat Can - Chicken,Makanan,2,50000,100000,Tunai,2,2,11,2024
+TX-20240120-002,2024-01-20,Nutri-Vet Multivitamin Chewable,Obat Hewan,8,12024,96192,QRIS,3,0,1,2024
+TX-20240319-004,2024-03-19,Life Cat Can - Kitten Tuna,Makanan,1,12024,12024,Tunai,2,2,3,2024
+TX-20240910-005,2024-09-10,Life Cat Pouch Dus,Makanan,2,12024,24048,Tunai,2,2,9,2024
+TX-20240529-005,2024-05-29,Life Cat Tofu - Mango,Makanan,5,250000,1250000,QRIS,2,0,5,2024
+TX-20240915-005,2024-09-15,Rogz Utility Dog Leash - Medium,Aksesoris,2,250000,500000,QRIS,0,0,9,2024
+TX-20240830-004,2024-08-30,Kong Puppy Teething Stick,Mainan,4,50000,200000,QRIS,1,0,8,2024
+TX-20240111-004,2024-01-11,Life Cat Tofu - Mango,Makanan,17,4435,75395,QRIS,2,0,1,2024
+TX-20240401-006,2024-04-01,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,4435,26610,Transfer,0,1,4,2024
+TX-20241018-004,2024-10-18,Life Cat Pouch - Chicken Adult,Makanan,17,130000,2210000,Transfer,2,1,10,2024
+TX-20240924-001,2024-09-24,Life Cat Can - Chicken,Makanan,1,250000,250000,Tunai,2,2,9,2024
+TX-20240831-004,2024-08-31,Kong Classic Dog Chew Toy,Mainan,18,50000,900000,Tunai,1,2,8,2024
+TX-20240414-002,2024-04-14,Kong Classic Dog Chew Toy,Mainan,4,4435,17740,QRIS,1,0,4,2024
+TX-20240610-008,2024-06-10,Kong Classic Dog Chew Toy,Mainan,2,50000,100000,QRIS,1,0,6,2024
+TX-20240615-004,2024-06-15,Life Cat Tofu - Mango,Makanan,6,250000,1500000,Transfer,2,1,6,2024
+TX-20240101-004,2024-01-01,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,2,4435,8870,QRIS,3,0,1,2024
+TX-20240322-002,2024-03-22,Life Cat Pouch - Chicken Tuna Adult,Makanan,14,55833,781662,Transfer,2,1,3,2024
+TX-20240817-003,2024-08-17,Life Cat Pouch Dus,Makanan,14,50000,700000,QRIS,2,0,8,2024
+TX-20240724-001,2024-07-24,Trixie Cat Laser Pointer,Mainan,12,130000,1560000,QRIS,1,0,7,2024
+TX-20240810-002,2024-08-10,Drontal Cat Dewormer,Obat Hewan,7,130000,910000,Tunai,3,2,8,2024
+TX-20240921-005,2024-09-21,Drontal Cat Dewormer,Obat Hewan,8,55833,446664,QRIS,3,0,9,2024
+TX-20240619-003,2024-06-19,Life Cat Pouch - Kitten Tuna,Makanan,4,55833,223332,QRIS,2,0,6,2024
+TX-20240415-005,2024-04-15,Life Cat Can - Chicken,Makanan,8,55833,446664,QRIS,2,0,4,2024
+TX-20240417-006,2024-04-17,Life Cat Can - Chicken,Makanan,2,130000,260000,Transfer,2,1,4,2024
+TX-20240118-006,2024-01-18,Life Cat Can - Kitten Tuna,Makanan,6,4435,26610,Tunai,2,2,1,2024
+TX-20240623-004,2024-06-23,Life Cat Pouch - Chicken Adult,Makanan,14,130000,1820000,Tunai,2,2,6,2024
+TX-20240920-004,2024-09-20,EzyDog Chest Plate Harness for Dogs,Aksesoris,15,130000,1950000,Transfer,0,1,9,2024
+TX-20240829-004,2024-08-29,Trixie Cat Scratching Post,Mainan,6,12024,72144,Transfer,1,1,8,2024
+TX-20240326-003,2024-03-26,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,50000,700000,QRIS,3,0,3,2024
+TX-20241021-002,2024-10-21,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,2,130000,260000,Transfer,3,1,10,2024
+TX-20241010-004,2024-10-10,Life Cat Can - Kitten Tuna,Makanan,10,130000,1300000,Transfer,2,1,10,2024
+TX-20240812-004,2024-08-12,Frontline Plus Flea & Tick Treatment,Obat Hewan,9,50000,450000,QRIS,3,0,8,2024
+TX-20240516-002,2024-05-16,EzyDog Chest Plate Harness for Dogs,Aksesoris,12,50000,600000,Transfer,0,1,5,2024
+TX-20240516-003,2024-05-16,Frontline Plus Flea & Tick Treatment,Obat Hewan,10,55833,558330,Transfer,3,1,5,2024
+TX-20240805-002,2024-08-05,Trixie Cat Tunnel,Mainan,3,50000,150000,Transfer,1,1,8,2024
+TX-20240213-006,2024-02-13,EzyDog Chest Plate Harness for Dogs,Aksesoris,4,250000,1000000,Tunai,0,2,2,2024
+TX-20240626-005,2024-06-26,Life Cat Pouch Dus,Makanan,2,130000,260000,QRIS,2,0,6,2024
+TX-20240918-003,2024-09-18,Life Cat Pouch - Chicken Tuna Adult,Makanan,10,50000,500000,Transfer,2,1,9,2024
+TX-20241110-004,2024-11-10,Kong Classic Dog Chew Toy,Mainan,11,12024,132264,Transfer,1,1,11,2024
+TX-20240109-007,2024-01-09,Life Cat Can - Chicken,Makanan,8,12024,96192,Transfer,2,1,1,2024
+TX-20240420-003,2024-04-20,Life Cat Pouch - Salmon Adult,Makanan,8,12024,96192,Tunai,2,2,4,2024
+TX-20240714-004,2024-07-14,Trixie Cat Laser Pointer,Mainan,13,12024,156312,Transfer,1,1,7,2024
+TX-20240831-005,2024-08-31,Life Cat Pouch Dus,Makanan,6,55833,334998,QRIS,2,0,8,2024
+TX-20240716-004,2024-07-16,Life Cat Pouch - Kitten Chicken,Makanan,5,12024,60120,Tunai,2,2,7,2024
+TX-20240208-002,2024-02-08,Life Cat Can - Tuna,Makanan,14,4435,62090,QRIS,2,0,2,2024
+TX-20240120-003,2024-01-20,Life Cat Pouch - Kitten Chicken,Makanan,4,50000,200000,Transfer,2,1,1,2024
+TX-20240415-006,2024-04-15,Trixie Cat Scratching Post,Mainan,19,50000,950000,Tunai,1,2,4,2024
+TX-20241127-001,2024-11-27,Kong Classic Dog Chew Toy,Mainan,2,250000,500000,Transfer,1,1,11,2024
+TX-20240808-004,2024-08-08,Trixie Cat Scratching Post,Mainan,5,250000,1250000,Tunai,1,2,8,2024
+TX-20240630-003,2024-06-30,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,2,250000,500000,Transfer,3,1,6,2024
+TX-20240214-003,2024-02-14,Kong Classic Dog Chew Toy,Mainan,10,130000,1300000,Transfer,1,1,2,2024
+TX-20241114-003,2024-11-14,Kong Classic Dog Chew Toy,Mainan,13,4435,57655,Tunai,1,2,11,2024
+TX-20240207-003,2024-02-07,Rogz Utility Dog Leash - Medium,Aksesoris,1,130000,130000,Transfer,0,1,2,2024
+TX-20240702-001,2024-07-02,Life Cat Pouch Dus,Makanan,1,130000,130000,QRIS,2,0,7,2024
+TX-20240819-002,2024-08-19,Life Cat Can - Kitten Salmon,Makanan,2,130000,260000,QRIS,2,0,8,2024
+TX-20240816-003,2024-08-16,Life Cat Pouch - Kitten Tuna,Makanan,8,55833,446664,Transfer,2,1,8,2024
+TX-20240524-003,2024-05-24,Life Cat Pouch - Kitten Tuna,Makanan,3,55833,167499,Tunai,2,2,5,2024
+TX-20240506-003,2024-05-06,Life Cat Pouch - Kitten Salmon,Makanan,4,55833,223332,Tunai,2,2,5,2024
+TX-20240907-001,2024-09-07,Kong Classic Dog Chew Toy,Mainan,16,55833,893328,Transfer,1,1,9,2024
+TX-20240713-001,2024-07-13,Life Cat Pouch - Kitten Chicken,Makanan,4,55833,223332,Tunai,2,2,7,2024
+TX-20241017-006,2024-10-17,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,15,12024,180360,Tunai,3,2,10,2024
+TX-20240129-006,2024-01-29,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,6,130000,780000,Transfer,3,1,1,2024
+TX-20240408-003,2024-04-08,Life Cat Can - Tuna,Makanan,5,130000,650000,QRIS,2,0,4,2024
+TX-20241026-001,2024-10-26,Life Cat Tofu - Mango,Makanan,1,50000,50000,Transfer,2,1,10,2024
+TX-20240810-003,2024-08-10,Drontal Cat Dewormer,Obat Hewan,2,12024,24048,QRIS,3,0,8,2024
+TX-20241006-005,2024-10-06,Life Cat Can - Chicken,Makanan,1,250000,250000,Transfer,2,1,10,2024
+TX-20240405-005,2024-04-05,Life Cat Pouch - Kitten Salmon,Makanan,8,50000,400000,Tunai,2,2,4,2024
+TX-20241105-002,2024-11-05,Life Cat Pouch - Kitten Chicken,Makanan,10,12024,120240,Transfer,2,1,11,2024
+TX-20240804-005,2024-08-04,Frontline Plus Flea & Tick Treatment,Obat Hewan,2,130000,260000,QRIS,3,0,8,2024
+TX-20240716-005,2024-07-16,Seresto Flea and Tick Collar for Dogs,Obat Hewan,4,55833,223332,Tunai,3,2,7,2024
+TX-20240109-008,2024-01-09,Life Cat Can - Tuna,Makanan,8,12024,96192,QRIS,2,0,1,2024
+TX-20240702-002,2024-07-02,Frontline Plus Flea & Tick Treatment,Obat Hewan,1,4435,4435,QRIS,3,0,7,2024
+TX-20240324-003,2024-03-24,Drontal Cat Dewormer,Obat Hewan,2,12024,24048,Transfer,3,1,3,2024
+TX-20240923-003,2024-09-23,Frontline Plus Flea & Tick Treatment,Obat Hewan,14,55833,781662,QRIS,3,0,9,2024
+TX-20240515-002,2024-05-15,Life Cat Pouch - Kitten Salmon,Makanan,11,50000,550000,Tunai,2,2,5,2024
+TX-20240211-002,2024-02-11,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,5,55833,279165,Transfer,3,1,2,2024
+TX-20240618-002,2024-06-18,Life Cat Tofu - Mango,Makanan,2,50000,100000,QRIS,2,0,6,2024
+TX-20241201-003,2024-12-01,Life Cat Pouch - Kitten Chicken,Makanan,10,55833,558330,Transfer,2,1,12,2024
+TX-20240806-004,2024-08-06,EzyDog Chest Plate Harness for Dogs,Aksesoris,9,12024,108216,QRIS,0,0,8,2024
+TX-20240730-002,2024-07-30,Life Cat Can - Kitten Tuna,Makanan,6,12024,72144,QRIS,2,0,7,2024
+TX-20241021-004,2024-10-21,Life Cat Can - Kitten Salmon,Makanan,1,130000,130000,Tunai,2,2,10,2024
+TX-20240607-004,2024-06-07,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,13,130000,1690000,Transfer,3,1,6,2024
+TX-20240509-004,2024-05-09,Life Cat Pouch - Chicken Adult,Makanan,15,12024,180360,QRIS,2,0,5,2024
+TX-20240208-003,2024-02-08,Trixie Cat Laser Pointer,Mainan,1,250000,250000,Tunai,1,2,2,2024
+TX-20241022-003,2024-10-22,Kong Classic Dog Chew Toy,Mainan,6,4435,26610,QRIS,1,0,10,2024
+TX-20240321-003,2024-03-21,Rogz Utility Dog Leash - Medium,Aksesoris,2,4435,8870,Tunai,0,2,3,2024
+TX-20241201-004,2024-12-01,Life Cat Pouch - Chicken Tuna Adult,Makanan,19,4435,84265,Tunai,2,2,12,2024
+TX-20240605-004,2024-06-05,Nutri-Vet Multivitamin Chewable,Obat Hewan,18,50000,900000,Transfer,3,1,6,2024
+TX-20240107-002,2024-01-07,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,12,50000,600000,Transfer,3,1,1,2024
+TX-20240730-003,2024-07-30,Trixie Cat Laser Pointer,Mainan,11,50000,550000,QRIS,1,0,7,2024
+TX-20240505-005,2024-05-05,Kong Classic Dog Chew Toy,Mainan,11,12024,132264,Transfer,1,1,5,2024
+TX-20240719-003,2024-07-19,Life Cat Can - Chicken,Makanan,1,12024,12024,QRIS,2,0,7,2024
+TX-20240123-001,2024-01-23,Life Cat Pouch - Chicken Adult,Makanan,4,50000,200000,Tunai,2,2,1,2024
+TX-20240407-002,2024-04-07,Trixie Cat Scratching Post,Mainan,8,4435,35480,Tunai,1,2,4,2024
+TX-20240319-005,2024-03-19,Drontal Cat Dewormer,Obat Hewan,17,4435,75395,QRIS,3,0,3,2024
+TX-20240402-003,2024-04-02,Life Cat Can - Kitten Salmon,Makanan,10,50000,500000,QRIS,2,0,4,2024
+TX-20240901-005,2024-09-01,Kong Classic Dog Chew Toy,Mainan,8,55833,446664,Tunai,1,2,9,2024
+TX-20240530-006,2024-05-30,Trixie Cat Scratching Post,Mainan,6,130000,780000,Tunai,1,2,5,2024
+TX-20241005-006,2024-10-05,Rogz Utility Dog Leash - Medium,Aksesoris,18,50000,900000,Transfer,0,1,10,2024
+TX-20240313-002,2024-03-13,Life Cat Pouch - Chicken Adult,Makanan,5,12024,60120,QRIS,2,0,3,2024
+TX-20241121-004,2024-11-21,Life Cat Can - Chicken,Makanan,8,12024,96192,Transfer,2,1,11,2024
+TX-20240924-002,2024-09-24,Kong Puppy Teething Stick,Mainan,9,55833,502497,Transfer,1,1,9,2024
+TX-20240724-002,2024-07-24,EzyDog Chest Plate Harness for Dogs,Aksesoris,12,4435,53220,Transfer,0,1,7,2024
+TX-20240913-004,2024-09-13,Seresto Flea and Tick Collar for Dogs,Obat Hewan,3,12024,36072,Transfer,3,1,9,2024
+TX-20240317-002,2024-03-17,Life Cat Pouch - Chicken Adult,Makanan,7,12024,84168,QRIS,2,0,3,2024
+TX-20240829-005,2024-08-29,Life Cat Pouch - Salmon Adult,Makanan,14,55833,781662,QRIS,2,0,8,2024
+TX-20241023-003,2024-10-23,Frontline Plus Flea & Tick Treatment,Obat Hewan,1,50000,50000,QRIS,3,0,10,2024
+TX-20240616-002,2024-06-16,Trixie Cat Laser Pointer,Mainan,14,130000,1820000,Transfer,1,1,6,2024
+TX-20240104-004,2024-01-04,Kong Classic Dog Chew Toy,Mainan,12,4435,53220,Transfer,1,1,1,2024
+TX-20240827-003,2024-08-27,Life Cat Can - Tuna,Makanan,4,250000,1000000,Tunai,2,2,8,2024
+TX-20240208-004,2024-02-08,Life Cat Tofu - Mango,Makanan,11,12024,132264,Tunai,2,2,2,2024
+TX-20240607-005,2024-06-07,Kong Puppy Teething Stick,Mainan,4,250000,1000000,Tunai,1,2,6,2024
+TX-20240224-003,2024-02-24,Trixie Cat Tunnel,Mainan,11,4435,48785,Transfer,1,1,2,2024
+TX-20240715-006,2024-07-15,Trixie Cat Laser Pointer,Mainan,8,12024,96192,Tunai,1,2,7,2024
+TX-20240207-004,2024-02-07,Life Cat Pouch - Kitten Tuna,Makanan,10,4435,44350,Tunai,2,2,2,2024
+TX-20241109-004,2024-11-09,Kong Puppy Teething Stick,Mainan,13,12024,156312,Transfer,1,1,11,2024
+TX-20240721-005,2024-07-21,Life Cat Pouch - Kitten Salmon,Makanan,1,12024,12024,QRIS,2,0,7,2024
+TX-20241027-007,2024-10-27,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,16,12024,192384,Transfer,3,1,10,2024
+TX-20240513-004,2024-05-13,Life Cat Pouch Dus,Makanan,5,130000,650000,Transfer,2,1,5,2024
+TX-20241006-006,2024-10-06,Trixie Cat Tunnel,Mainan,7,12024,84168,Tunai,1,2,10,2024
+TX-20241023-004,2024-10-23,Life Cat Tofu - Macha,Makanan,11,50000,550000,Tunai,2,2,10,2024
+TX-20240205-006,2024-02-05,Trixie Cat Tunnel,Mainan,4,250000,1000000,QRIS,1,0,2,2024
+TX-20240823-005,2024-08-23,Life Cat Can - Kitten Salmon,Makanan,13,12024,156312,Transfer,2,1,8,2024
+TX-20240225-003,2024-02-25,Life Cat Pouch - Chicken Adult,Makanan,12,50000,600000,Transfer,2,1,2,2024
+TX-20240208-005,2024-02-08,Life Cat Can - Kitten Salmon,Makanan,17,50000,850000,Transfer,2,1,2,2024
+TX-20240918-004,2024-09-18,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,11,55833,614163,QRIS,3,0,9,2024
+TX-20240929-005,2024-09-29,Life Cat Pouch Dus,Makanan,10,55833,558330,Tunai,2,2,9,2024
+TX-20240513-005,2024-05-13,EzyDog Chest Plate Harness for Dogs,Aksesoris,16,55833,893328,QRIS,0,0,5,2024
+TX-20240615-005,2024-06-15,Nutri-Vet Multivitamin Chewable,Obat Hewan,12,12024,144288,QRIS,3,0,6,2024
+TX-20240102-004,2024-01-02,Kong Puppy Teething Stick,Mainan,15,55833,837495,QRIS,1,0,1,2024
+TX-20240531-010,2024-05-31,Kong Classic Dog Chew Toy,Mainan,12,50000,600000,Tunai,1,2,5,2024
+TX-20241031-006,2024-10-31,Life Cat Pouch Dus,Makanan,7,130000,910000,QRIS,2,0,10,2024
+TX-20240529-006,2024-05-29,Life Cat Can - Tuna,Makanan,12,130000,1560000,QRIS,2,0,5,2024
+TX-20240115-005,2024-01-15,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,11,50000,550000,QRIS,3,0,1,2024
+TX-20240421-006,2024-04-21,Life Cat Can - Kitten Salmon,Makanan,13,12024,156312,QRIS,2,0,4,2024
+TX-20240217-003,2024-02-17,Life Cat Pouch - Chicken Tuna Adult,Makanan,14,50000,700000,QRIS,2,0,2,2024
+TX-20240912-003,2024-09-12,Life Cat Pouch - Chicken Adult,Makanan,12,55833,669996,Tunai,2,2,9,2024
+TX-20240803-002,2024-08-03,Life Cat Can - Kitten Tuna,Makanan,13,130000,1690000,QRIS,2,0,8,2024
+TX-20240819-003,2024-08-19,Seresto Flea and Tick Collar for Dogs,Obat Hewan,7,4435,31045,QRIS,3,0,8,2024
+TX-20240803-003,2024-08-03,Life Cat Pouch - Kitten Chicken,Makanan,4,4435,17740,Transfer,2,1,8,2024
+TX-20240927-006,2024-09-27,Life Cat Pouch - Kitten Salmon,Makanan,1,12024,12024,Tunai,2,2,9,2024
+TX-20240504-005,2024-05-04,Rogz Utility Dog Leash - Medium,Aksesoris,14,50000,700000,Tunai,0,2,5,2024
+TX-20240214-004,2024-02-14,EzyDog Chest Plate Harness for Dogs,Aksesoris,6,130000,780000,Transfer,0,1,2,2024
+TX-20240307-002,2024-03-07,Life Cat Pouch - Chicken Adult,Makanan,1,4435,4435,QRIS,2,0,3,2024
+TX-20240708-007,2024-07-08,Life Cat Can - Chicken,Makanan,5,130000,650000,Transfer,2,1,7,2024
+TX-20241023-005,2024-10-23,Life Cat Can - Chicken,Makanan,4,12024,48096,Transfer,2,1,10,2024
+TX-20240109-009,2024-01-09,Frontline Plus Flea & Tick Treatment,Obat Hewan,5,130000,650000,QRIS,3,0,1,2024
+TX-20240328-005,2024-03-28,Life Cat Can - Chicken,Makanan,19,50000,950000,Tunai,2,2,3,2024
+TX-20240802-003,2024-08-02,Life Cat Pouch - Kitten Chicken,Makanan,11,4435,48785,Transfer,2,1,8,2024
+TX-20240810-004,2024-08-10,Life Cat Tofu - Macha,Makanan,12,12024,144288,Tunai,2,2,8,2024
+TX-20240101-005,2024-01-01,Frontline Plus Flea & Tick Treatment,Obat Hewan,17,55833,949161,QRIS,3,0,1,2024
+TX-20240529-007,2024-05-29,Life Cat Pouch - Chicken Adult,Makanan,18,4435,79830,QRIS,2,0,5,2024
+TX-20241008-004,2024-10-08,Rogz Utility Dog Leash - Medium,Aksesoris,7,55833,390831,QRIS,0,0,10,2024
+TX-20240724-003,2024-07-24,Life Cat Can - Kitten Tuna,Makanan,14,55833,781662,Transfer,2,1,7,2024
+TX-20241003-005,2024-10-03,Life Cat Tofu - Macha,Makanan,1,12024,12024,Transfer,2,1,10,2024
+TX-20240206-002,2024-02-06,Nutri-Vet Multivitamin Chewable,Obat Hewan,5,130000,650000,QRIS,3,0,2,2024
+TX-20240317-003,2024-03-17,Frontline Plus Flea & Tick Treatment,Obat Hewan,15,50000,750000,Transfer,3,1,3,2024
+TX-20240405-006,2024-04-05,Life Cat Tofu - Macha,Makanan,8,4435,35480,QRIS,2,0,4,2024
+TX-20240911-008,2024-09-11,Trixie Cat Laser Pointer,Mainan,5,250000,1250000,Transfer,1,1,9,2024
+TX-20240301-004,2024-03-01,Life Cat Can - Kitten Tuna,Makanan,6,250000,1500000,Tunai,2,2,3,2024
+TX-20240704-003,2024-07-04,Trixie Cat Scratching Post,Mainan,10,130000,1300000,QRIS,1,0,7,2024
+TX-20240417-007,2024-04-17,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,12024,84168,QRIS,0,0,4,2024
+TX-20240427-004,2024-04-27,Life Cat Pouch - Kitten Salmon,Makanan,5,50000,250000,Tunai,2,2,4,2024
+TX-20240418-004,2024-04-18,Seresto Flea and Tick Collar for Dogs,Obat Hewan,8,250000,2000000,Tunai,3,2,4,2024
+TX-20240306-005,2024-03-06,EzyDog Chest Plate Harness for Dogs,Aksesoris,12,12024,144288,QRIS,0,0,3,2024
+TX-20240113-003,2024-01-13,Life Cat Tofu - Macha,Makanan,4,250000,1000000,QRIS,2,0,1,2024
+TX-20241011-003,2024-10-11,Life Cat Pouch - Salmon Adult,Makanan,16,55833,893328,Tunai,2,2,10,2024
+TX-20240124-002,2024-01-24,Life Cat Pouch - Kitten Chicken,Makanan,2,50000,100000,QRIS,2,0,1,2024
+TX-20240918-005,2024-09-18,Life Cat Can - Kitten Salmon,Makanan,2,55833,111666,QRIS,2,0,9,2024
+TX-20240925-002,2024-09-25,Nutri-Vet Multivitamin Chewable,Obat Hewan,6,50000,300000,QRIS,3,0,9,2024
+TX-20240303-005,2024-03-03,Life Cat Pouch - Salmon Adult,Makanan,15,50000,750000,Transfer,2,1,3,2024
+TX-20240709-002,2024-07-09,Nutri-Vet Multivitamin Chewable,Obat Hewan,9,55833,502497,Transfer,3,1,7,2024
+TX-20240601-006,2024-06-01,Life Cat Tofu - Macha,Makanan,7,250000,1750000,Tunai,2,2,6,2024
+TX-20240813-003,2024-08-13,Life Cat Can - Chicken,Makanan,8,55833,446664,Tunai,2,2,8,2024
+TX-20240504-006,2024-05-04,Life Cat Can - Chicken,Makanan,7,130000,910000,Transfer,2,1,5,2024
+TX-20240522-006,2024-05-22,Life Cat Tofu - Macha,Makanan,10,4435,44350,QRIS,2,0,5,2024
+TX-20240215-005,2024-02-15,Life Cat Tofu - Macha,Makanan,15,12024,180360,Tunai,2,2,2,2024
+TX-20240831-006,2024-08-31,Kong Puppy Teething Stick,Mainan,11,50000,550000,Tunai,1,2,8,2024
+TX-20240327-001,2024-03-27,Life Cat Tofu - Mango,Makanan,5,130000,650000,Transfer,2,1,3,2024
+TX-20240712-004,2024-07-12,Life Cat Pouch Dus,Makanan,12,130000,1560000,QRIS,2,0,7,2024
+TX-20240726-004,2024-07-26,Life Cat Tofu - Macha,Makanan,5,50000,250000,Tunai,2,2,7,2024
+TX-20240430-005,2024-04-30,Life Cat Can - Kitten Tuna,Makanan,14,55833,781662,QRIS,2,0,4,2024
+TX-20240501-001,2024-05-01,Life Cat Can - Tuna,Makanan,7,55833,390831,QRIS,2,0,5,2024
+TX-20240713-002,2024-07-13,Drontal Cat Dewormer,Obat Hewan,1,250000,250000,Transfer,3,1,7,2024
+TX-20240201-003,2024-02-01,EzyDog Chest Plate Harness for Dogs,Aksesoris,1,250000,250000,Tunai,0,2,2,2024
+TX-20240918-006,2024-09-18,Trixie Cat Scratching Post,Mainan,1,4435,4435,QRIS,1,0,9,2024
+TX-20240709-003,2024-07-09,Trixie Cat Tunnel,Mainan,5,50000,250000,Tunai,1,2,7,2024
+TX-20240627-004,2024-06-27,Life Cat Pouch - Kitten Chicken,Makanan,14,50000,700000,Tunai,2,2,6,2024
+TX-20240120-004,2024-01-20,Trixie Cat Laser Pointer,Mainan,12,4435,53220,Tunai,1,2,1,2024
+TX-20240616-003,2024-06-16,Life Cat Can - Chicken,Makanan,4,12024,48096,Tunai,2,2,6,2024
+TX-20240709-004,2024-07-09,Life Cat Pouch Dus,Makanan,4,50000,200000,QRIS,2,0,7,2024
+TX-20240102-005,2024-01-02,Life Cat Can - Kitten Tuna,Makanan,1,55833,55833,Transfer,2,1,1,2024
+TX-20240902-007,2024-09-02,Life Cat Tofu - Mango,Makanan,13,130000,1690000,QRIS,2,0,9,2024
+TX-20240424-004,2024-04-24,Life Cat Tofu - Macha,Makanan,8,50000,400000,Tunai,2,2,4,2024
+TX-20240317-004,2024-03-17,Life Cat Tofu - Macha,Makanan,7,250000,1750000,Tunai,2,2,3,2024
+TX-20241016-003,2024-10-16,Life Cat Pouch - Salmon Adult,Makanan,13,130000,1690000,Tunai,2,2,10,2024
+TX-20240530-007,2024-05-30,Seresto Flea and Tick Collar for Dogs,Obat Hewan,11,55833,614163,QRIS,3,0,5,2024
+TX-20240908-005,2024-09-08,Rogz Utility Dog Leash - Medium,Aksesoris,10,55833,558330,Transfer,0,1,9,2024
+TX-20240821-002,2024-08-21,Life Cat Pouch Dus,Makanan,4,55833,223332,Transfer,2,1,8,2024
+TX-20240111-005,2024-01-11,Life Cat Pouch - Chicken Adult,Makanan,10,4435,44350,Tunai,2,2,1,2024
+TX-20240323-004,2024-03-23,Life Cat Can - Chicken,Makanan,5,250000,1250000,Tunai,2,2,3,2024
+TX-20240810-005,2024-08-10,Life Cat Pouch - Kitten Salmon,Makanan,4,55833,223332,QRIS,2,0,8,2024
+TX-20240118-007,2024-01-18,Life Cat Pouch - Kitten Chicken,Makanan,13,55833,725829,Tunai,2,2,1,2024
+TX-20240724-004,2024-07-24,Life Cat Can - Chicken,Makanan,8,12024,96192,Tunai,2,2,7,2024
+TX-20240222-002,2024-02-22,Trixie Cat Laser Pointer,Mainan,16,50000,800000,QRIS,1,0,2,2024
+TX-20240722-003,2024-07-22,Life Cat Can - Kitten Salmon,Makanan,13,50000,650000,Transfer,2,1,7,2024
+TX-20240311-005,2024-03-11,Life Cat Tofu - Macha,Makanan,19,12024,228456,Transfer,2,1,3,2024
+TX-20240623-005,2024-06-23,Rogz Utility Dog Leash - Medium,Aksesoris,18,12024,216432,QRIS,0,0,6,2024
+TX-20240121-003,2024-01-21,Life Cat Pouch - Kitten Chicken,Makanan,8,250000,2000000,Tunai,2,2,1,2024
+TX-20240429-003,2024-04-29,Life Cat Pouch - Chicken Adult,Makanan,10,4435,44350,QRIS,2,0,4,2024
+TX-20241022-004,2024-10-22,EzyDog Chest Plate Harness for Dogs,Aksesoris,11,50000,550000,QRIS,0,0,10,2024
+TX-20240606-005,2024-06-06,Seresto Flea and Tick Collar for Dogs,Obat Hewan,8,55833,446664,Transfer,3,1,6,2024
+TX-20240321-004,2024-03-21,Trixie Cat Laser Pointer,Mainan,16,130000,2080000,QRIS,1,0,3,2024
+TX-20240516-004,2024-05-16,Kong Classic Dog Chew Toy,Mainan,9,130000,1170000,Transfer,1,1,5,2024
+TX-20240831-007,2024-08-31,Life Cat Can - Chicken,Makanan,14,4435,62090,Transfer,2,1,8,2024
+TX-20241006-007,2024-10-06,Life Cat Can - Kitten Tuna,Makanan,17,55833,949161,Transfer,2,1,10,2024
+TX-20240922-003,2024-09-22,Life Cat Pouch - Chicken Tuna Adult,Makanan,7,50000,350000,Tunai,2,2,9,2024
+TX-20241115-005,2024-11-15,Life Cat Can - Tuna,Makanan,3,50000,150000,QRIS,2,0,11,2024
+TX-20241115-006,2024-11-15,Life Cat Pouch - Chicken Adult,Makanan,9,50000,450000,Tunai,2,2,11,2024
+TX-20240610-009,2024-06-10,Life Cat Pouch - Kitten Tuna,Makanan,16,50000,800000,Transfer,2,1,6,2024
+TX-20240825-001,2024-08-25,Life Cat Pouch - Salmon Adult,Makanan,3,130000,390000,Tunai,2,2,8,2024
+TX-20240721-006,2024-07-21,Life Cat Pouch - Salmon Adult,Makanan,1,250000,250000,Transfer,2,1,7,2024
+TX-20240715-007,2024-07-15,Life Cat Can - Tuna,Makanan,4,130000,520000,QRIS,2,0,7,2024
+TX-20240404-001,2024-04-04,Nutri-Vet Multivitamin Chewable,Obat Hewan,7,4435,31045,Transfer,3,1,4,2024
+TX-20240825-002,2024-08-25,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,12,12024,144288,QRIS,3,0,8,2024
+TX-20240508-003,2024-05-08,Kong Classic Dog Chew Toy,Mainan,9,55833,502497,Transfer,1,1,5,2024
+TX-20240513-006,2024-05-13,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,4,4435,17740,Transfer,3,1,5,2024
+TX-20240124-003,2024-01-24,Kong Classic Dog Chew Toy,Mainan,16,12024,192384,QRIS,1,0,1,2024
+TX-20240101-006,2024-01-01,Life Cat Tofu - Mango,Makanan,1,55833,55833,Tunai,2,2,1,2024
+TX-20240428-001,2024-04-28,Trixie Cat Tunnel,Mainan,13,12024,156312,QRIS,1,0,4,2024
+TX-20241022-005,2024-10-22,Life Cat Tofu - Macha,Makanan,12,130000,1560000,QRIS,2,0,10,2024
+TX-20241001-006,2024-10-01,Life Cat Can - Kitten Salmon,Makanan,19,12024,228456,Transfer,2,1,10,2024
+TX-20240210-005,2024-02-10,Life Cat Can - Tuna,Makanan,17,50000,850000,QRIS,2,0,2,2024
+TX-20240320-004,2024-03-20,Nutri-Vet Multivitamin Chewable,Obat Hewan,15,55833,837495,Transfer,3,1,3,2024
+TX-20240504-007,2024-05-04,Life Cat Tofu - Macha,Makanan,9,55833,502497,Transfer,2,1,5,2024
+TX-20240218-002,2024-02-18,Life Cat Pouch - Kitten Tuna,Makanan,7,250000,1750000,Tunai,2,2,2,2024
+TX-20241113-004,2024-11-13,Life Cat Pouch - Kitten Chicken,Makanan,19,55833,1060827,QRIS,2,0,11,2024
+TX-20240420-004,2024-04-20,Life Cat Tofu - Mango,Makanan,5,50000,250000,Tunai,2,2,4,2024
+TX-20240124-004,2024-01-24,Life Cat Can - Kitten Tuna,Makanan,1,50000,50000,Tunai,2,2,1,2024
+TX-20241022-006,2024-10-22,Kong Puppy Teething Stick,Mainan,13,4435,57655,Tunai,1,2,10,2024
+TX-20240617-005,2024-06-17,Drontal Cat Dewormer,Obat Hewan,15,55833,837495,Transfer,3,1,6,2024
+TX-20240111-006,2024-01-11,Life Cat Can - Kitten Tuna,Makanan,11,4435,48785,QRIS,2,0,1,2024
+TX-20241113-005,2024-11-13,Life Cat Pouch - Chicken Tuna Adult,Makanan,4,130000,520000,Transfer,2,1,11,2024
+TX-20240426-006,2024-04-26,Trixie Cat Scratching Post,Mainan,7,4435,31045,Transfer,1,1,4,2024
+TX-20240121-004,2024-01-21,Life Cat Pouch - Chicken Adult,Makanan,9,50000,450000,Transfer,2,1,1,2024
+TX-20241005-008,2024-10-05,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,3,50000,150000,Transfer,3,1,10,2024
+TX-20240722-004,2024-07-22,Seresto Flea and Tick Collar for Dogs,Obat Hewan,11,130000,1430000,QRIS,3,0,7,2024
+TX-20241201-005,2024-12-01,Life Cat Tofu - Mango,Makanan,8,4435,35480,Tunai,2,2,12,2024
+TX-20240602-003,2024-06-02,Trixie Cat Tunnel,Mainan,18,4435,79830,QRIS,1,0,6,2024
+TX-20240624-005,2024-06-24,Life Cat Can - Tuna,Makanan,9,130000,1170000,QRIS,2,0,6,2024
+TX-20241025-001,2024-10-25,Life Cat Pouch - Chicken Adult,Makanan,10,4435,44350,QRIS,2,0,10,2024
+TX-20240407-003,2024-04-07,EzyDog Chest Plate Harness for Dogs,Aksesoris,15,12024,180360,Transfer,0,1,4,2024
+TX-20241116-002,2024-11-16,Trixie Cat Tunnel,Mainan,8,50000,400000,QRIS,1,0,11,2024
+TX-20240110-005,2024-01-10,Seresto Flea and Tick Collar for Dogs,Obat Hewan,6,55833,334998,QRIS,3,0,1,2024
+TX-20240122-004,2024-01-22,Life Cat Pouch Dus,Makanan,7,4435,31045,QRIS,2,0,1,2024
+TX-20240408-004,2024-04-08,Seresto Flea and Tick Collar for Dogs,Obat Hewan,4,50000,200000,Transfer,3,1,4,2024
+TX-20240326-004,2024-03-26,Trixie Cat Tunnel,Mainan,3,4435,13305,QRIS,1,0,3,2024
+TX-20240228-003,2024-02-28,Life Cat Pouch - Chicken Adult,Makanan,8,55833,446664,Tunai,2,2,2,2024
+TX-20240624-006,2024-06-24,Rogz Utility Dog Leash - Medium,Aksesoris,14,50000,700000,Transfer,0,1,6,2024
+TX-20240316-003,2024-03-16,EzyDog Chest Plate Harness for Dogs,Aksesoris,3,50000,150000,QRIS,0,0,3,2024
+TX-20240706-004,2024-07-06,Trixie Cat Tunnel,Mainan,12,12024,144288,QRIS,1,0,7,2024
+TX-20240706-005,2024-07-06,Trixie Cat Scratching Post,Mainan,1,250000,250000,Tunai,1,2,7,2024
+TX-20240312-001,2024-03-12,Life Cat Pouch Dus,Makanan,13,50000,650000,Transfer,2,1,3,2024
+TX-20240713-003,2024-07-13,Frontline Plus Flea & Tick Treatment,Obat Hewan,13,55833,725829,Transfer,3,1,7,2024
+TX-20240226-003,2024-02-26,Life Cat Pouch - Kitten Salmon,Makanan,1,130000,130000,Transfer,2,1,2,2024
+TX-20241117-006,2024-11-17,Nutri-Vet Multivitamin Chewable,Obat Hewan,19,50000,950000,Tunai,3,2,11,2024
+TX-20240615-006,2024-06-15,Rogz Utility Dog Leash - Medium,Aksesoris,14,12024,168336,Transfer,0,1,6,2024
+TX-20240311-006,2024-03-11,Life Cat Pouch - Chicken Tuna Adult,Makanan,19,55833,1060827,Transfer,2,1,3,2024
+TX-20240907-002,2024-09-07,Trixie Cat Scratching Post,Mainan,12,50000,600000,Transfer,1,1,9,2024
+TX-20241030-006,2024-10-30,Life Cat Pouch - Chicken Adult,Makanan,6,55833,334998,Transfer,2,1,10,2024
+TX-20241106-007,2024-11-06,Trixie Cat Scratching Post,Mainan,3,250000,750000,Transfer,1,1,11,2024
+TX-20240115-006,2024-01-15,Life Cat Pouch - Kitten Chicken,Makanan,4,130000,520000,Transfer,2,1,1,2024
+TX-20240727-002,2024-07-27,Life Cat Can - Kitten Salmon,Makanan,19,50000,950000,Transfer,2,1,7,2024
+TX-20240302-002,2024-03-02,Life Cat Tofu - Mango,Makanan,8,12024,96192,Tunai,2,2,3,2024
+TX-20241001-007,2024-10-01,Rogz Utility Dog Leash - Medium,Aksesoris,16,12024,192384,Tunai,0,2,10,2024
+TX-20240623-006,2024-06-23,Life Cat Can - Chicken,Makanan,2,50000,100000,QRIS,2,0,6,2024
+TX-20240515-003,2024-05-15,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,14,12024,168336,Transfer,3,1,5,2024
+TX-20240714-005,2024-07-14,Frontline Plus Flea & Tick Treatment,Obat Hewan,10,130000,1300000,QRIS,3,0,7,2024
+TX-20240824-001,2024-08-24,Life Cat Can - Chicken,Makanan,14,50000,700000,Transfer,2,1,8,2024
+TX-20241115-007,2024-11-15,Kong Puppy Teething Stick,Mainan,9,55833,502497,QRIS,1,0,11,2024
+TX-20241031-007,2024-10-31,Life Cat Pouch Dus,Makanan,14,12024,168336,QRIS,2,0,10,2024
+TX-20240719-004,2024-07-19,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,15,12024,180360,QRIS,3,0,7,2024
+TX-20240626-006,2024-06-26,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,17,50000,850000,QRIS,3,0,6,2024
+TX-20240221-005,2024-02-21,Kong Puppy Teething Stick,Mainan,1,50000,50000,Transfer,1,1,2,2024
+TX-20240606-007,2024-06-06,Life Cat Pouch - Kitten Tuna,Makanan,12,50000,600000,Transfer,2,1,6,2024
+TX-20240604-003,2024-06-04,Life Cat Pouch - Kitten Tuna,Makanan,14,55833,781662,Tunai,2,2,6,2024
+TX-20240410-004,2024-04-10,Kong Puppy Teething Stick,Mainan,16,4435,70960,QRIS,1,0,4,2024
+TX-20241008-005,2024-10-08,Life Cat Pouch - Kitten Tuna,Makanan,6,50000,300000,Transfer,2,1,10,2024
+TX-20240209-003,2024-02-09,Life Cat Pouch - Kitten Chicken,Makanan,16,12024,192384,Tunai,2,2,2,2024
+TX-20240720-001,2024-07-20,Life Cat Can - Kitten Salmon,Makanan,3,250000,750000,QRIS,2,0,7,2024
+TX-20240908-006,2024-09-08,Frontline Plus Flea & Tick Treatment,Obat Hewan,14,130000,1820000,Transfer,3,1,9,2024
+TX-20240426-007,2024-04-26,Life Cat Pouch Dus,Makanan,4,4435,17740,Tunai,2,2,4,2024
+TX-20240229-002,2024-02-29,Trixie Cat Scratching Post,Mainan,5,130000,650000,Tunai,1,2,2,2024
+TX-20241124-003,2024-11-24,Nutri-Vet Multivitamin Chewable,Obat Hewan,8,4435,35480,QRIS,3,0,11,2024
+TX-20240406-005,2024-04-06,Trixie Cat Laser Pointer,Mainan,2,4435,8870,Tunai,1,2,4,2024
+TX-20240219-004,2024-02-19,Rogz Utility Dog Leash - Medium,Aksesoris,12,12024,144288,Transfer,0,1,2,2024
+TX-20240205-007,2024-02-05,Drontal Cat Dewormer,Obat Hewan,5,250000,1250000,Tunai,3,2,2,2024
+TX-20241003-006,2024-10-03,Trixie Cat Tunnel,Mainan,18,12024,216432,QRIS,1,0,10,2024
+TX-20240812-005,2024-08-12,Nutri-Vet Multivitamin Chewable,Obat Hewan,4,50000,200000,Transfer,3,1,8,2024
+TX-20241121-005,2024-11-21,Life Cat Pouch - Kitten Salmon,Makanan,2,250000,500000,QRIS,2,0,11,2024
+TX-20240722-005,2024-07-22,Life Cat Pouch - Chicken Adult,Makanan,5,250000,1250000,QRIS,2,0,7,2024
+TX-20240806-006,2024-08-06,Life Cat Pouch - Kitten Tuna,Makanan,1,250000,250000,QRIS,2,0,8,2024
+TX-20240315-001,2024-03-15,Life Cat Pouch Dus,Makanan,18,50000,900000,Tunai,2,2,3,2024
+TX-20240110-006,2024-01-10,Life Cat Can - Kitten Tuna,Makanan,1,250000,250000,QRIS,2,0,1,2024
+TX-20240615-007,2024-06-15,Life Cat Tofu - Mango,Makanan,5,55833,279165,QRIS,2,0,6,2024
+TX-20241011-004,2024-10-11,Life Cat Tofu - Macha,Makanan,6,250000,1500000,QRIS,2,0,10,2024
+TX-20240409-003,2024-04-09,Trixie Cat Tunnel,Mainan,11,130000,1430000,Transfer,1,1,4,2024
+TX-20240212-003,2024-02-12,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,55833,390831,QRIS,0,0,2,2024
+TX-20240702-003,2024-07-02,Life Cat Pouch - Salmon Adult,Makanan,7,55833,390831,QRIS,2,0,7,2024
+TX-20240828-002,2024-08-28,Life Cat Pouch - Salmon Adult,Makanan,1,55833,55833,QRIS,2,0,8,2024
+TX-20240223-004,2024-02-23,Life Cat Pouch - Salmon Adult,Makanan,4,4435,17740,QRIS,2,0,2,2024
+TX-20240201-004,2024-02-01,Life Cat Pouch - Kitten Chicken,Makanan,10,55833,558330,QRIS,2,0,2,2024
+TX-20240629-005,2024-06-29,Life Cat Pouch - Chicken Tuna Adult,Makanan,12,12024,144288,Tunai,2,2,6,2024
+TX-20240906-003,2024-09-06,Life Cat Pouch - Kitten Salmon,Makanan,3,50000,150000,Transfer,2,1,9,2024
+TX-20240219-005,2024-02-19,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,130000,910000,Tunai,0,2,2,2024
+TX-20240215-006,2024-02-15,Trixie Cat Laser Pointer,Mainan,12,12024,144288,QRIS,1,0,2,2024
+TX-20240215-007,2024-02-15,Life Cat Can - Chicken,Makanan,7,130000,910000,Transfer,2,1,2,2024
+TX-20240310-001,2024-03-10,Frontline Plus Flea & Tick Treatment,Obat Hewan,9,55833,502497,Transfer,3,1,3,2024
+TX-20240107-003,2024-01-07,Life Cat Tofu - Macha,Makanan,4,12024,48096,QRIS,2,0,1,2024
+TX-20241108-004,2024-11-08,Rogz Utility Dog Leash - Medium,Aksesoris,1,130000,130000,Tunai,0,2,11,2024
+TX-20240811-004,2024-08-11,Life Cat Pouch - Kitten Tuna,Makanan,13,50000,650000,Transfer,2,1,8,2024
+TX-20240408-005,2024-04-08,Life Cat Tofu - Mango,Makanan,3,50000,150000,Transfer,2,1,4,2024
+TX-20240120-005,2024-01-20,Kong Classic Dog Chew Toy,Mainan,15,12024,180360,QRIS,1,0,1,2024
+TX-20241129-003,2024-11-29,Kong Puppy Teething Stick,Mainan,3,130000,390000,QRIS,1,0,11,2024
+TX-20240219-006,2024-02-19,Nutri-Vet Multivitamin Chewable,Obat Hewan,2,50000,100000,Tunai,3,2,2,2024
+TX-20240920-005,2024-09-20,Life Cat Pouch - Kitten Salmon,Makanan,3,50000,150000,QRIS,2,0,9,2024
+TX-20240401-007,2024-04-01,Life Cat Tofu - Macha,Makanan,12,12024,144288,Tunai,2,2,4,2024
+TX-20240815-004,2024-08-15,Seresto Flea and Tick Collar for Dogs,Obat Hewan,1,12024,12024,Tunai,3,2,8,2024
+TX-20240627-005,2024-06-27,Trixie Cat Laser Pointer,Mainan,10,130000,1300000,Transfer,1,1,6,2024
+TX-20240516-006,2024-05-16,Nutri-Vet Multivitamin Chewable,Obat Hewan,10,4435,44350,Transfer,3,1,5,2024
+TX-20241107-004,2024-11-07,Seresto Flea and Tick Collar for Dogs,Obat Hewan,10,50000,500000,QRIS,3,0,11,2024
+TX-20240720-002,2024-07-20,Nutri-Vet Multivitamin Chewable,Obat Hewan,4,250000,1000000,Tunai,3,2,7,2024
+TX-20240804-006,2024-08-04,Life Cat Can - Kitten Tuna,Makanan,10,50000,500000,QRIS,2,0,8,2024
+TX-20240129-007,2024-01-29,EzyDog Chest Plate Harness for Dogs,Aksesoris,7,55833,390831,Tunai,0,2,1,2024
+TX-20240505-006,2024-05-05,Life Cat Can - Chicken,Makanan,16,55833,893328,QRIS,2,0,5,2024
+TX-20241106-008,2024-11-06,Rogz Utility Dog Leash - Medium,Aksesoris,3,130000,390000,Transfer,0,1,11,2024
+TX-20240521-005,2024-05-21,Life Cat Tofu - Macha,Makanan,17,50000,850000,QRIS,2,0,5,2024
+TX-20240415-007,2024-04-15,Life Cat Pouch - Chicken Adult,Makanan,3,50000,150000,Tunai,2,2,4,2024
+TX-20240527-004,2024-05-27,Kong Classic Dog Chew Toy,Mainan,14,130000,1820000,QRIS,1,0,5,2024
+TX-20240423-003,2024-04-23,Life Cat Pouch - Kitten Salmon,Makanan,14,4435,62090,Tunai,2,2,4,2024
+TX-20240919-002,2024-09-19,Nutri-Vet Multivitamin Chewable,Obat Hewan,10,130000,1300000,Transfer,3,1,9,2024
+TX-20240112-004,2024-01-12,Life Cat Pouch - Salmon Adult,Makanan,4,4435,17740,Tunai,2,2,1,2024
+TX-20240401-008,2024-04-01,Nutri-Vet Multivitamin Chewable,Obat Hewan,12,55833,669996,Transfer,3,1,4,2024
+TX-20241112-003,2024-11-12,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,8,130000,1040000,Transfer,3,1,11,2024
+TX-20240809-002,2024-08-09,Life Cat Pouch - Kitten Chicken,Makanan,3,50000,150000,QRIS,2,0,8,2024
+TX-20240107-004,2024-01-07,Life Cat Pouch - Salmon Adult,Makanan,11,55833,614163,QRIS,2,0,1,2024
+TX-20240205-008,2024-02-05,Beaphar Ear Cleaner for Dogs & Cats,Obat Hewan,11,12024,132264,Tunai,3,2,2,2024
+TX-20240512-004,2024-05-12,Rogz Utility Dog Leash - Medium,Aksesoris,15,4435,66525,QRIS,0,0,5,2024
+TX-20240123-002,2024-01-23,Life Cat Can - Tuna,Makanan,3,55833,167499,Tunai,2,2,1,2024
+TX-20241031-008,2024-10-31,Trixie Cat Laser Pointer,Mainan,1,130000,130000,QRIS,1,0,10,2024
+TX-20240823-006,2024-08-23,Life Cat Pouch - Salmon Adult,Makanan,15,4435,66525,Transfer,2,1,8,2024
+TX-20240102-006,2024-01-02,Life Cat Pouch - Kitten Tuna,Makanan,6,250000,1500000,Transfer,2,1,1,2024
+TX-20240923-004,2024-09-23,Life Cat Pouch - Kitten Salmon,Makanan,16,130000,2080000,Tunai,2,2,9,2024
+TX-20240308-004,2024-03-08,Trixie Cat Scratching Post,Mainan,4,250000,1000000,Tunai,1,2,3,2024
+TX-20240601-007,2024-06-01,Life Cat Tofu - Macha,Makanan,4,130000,520000,QRIS,2,0,6,2024
+TX-20240811-005,2024-08-11,Life Cat Can - Kitten Tuna,Makanan,11,55833,614163,Transfer,2,1,8,2024
+TX-20241128-002,2024-11-28,Life Cat Tofu - Mango,Makanan,6,130000,780000,QRIS,2,0,11,2024
+TX-20240420-006,2024-04-20,Life Cat Pouch - Chicken Adult,Makanan,8,12024,96192,Transfer,2,1,4,2024
+TX-20240202-003,2024-02-02,Life Cat Tofu - Mango,Makanan,4,250000,1000000,Tunai,2,2,2,2024
+TX-20241026-002,2024-10-26,Life Cat Can - Kitten Tuna,Makanan,2,4435,8870,Tunai,2,2,10,2024
+TX-20240920-006,2024-09-20,Life Cat Pouch - Kitten Salmon,Makanan,4,250000,1000000,Transfer,2,1,9,2024
+TX-20240101-007,2024-01-01,Trixie Cat Scratching Post,Mainan,19,4435,84265,Tunai,1,2,1,2024
+TX-20240520-006,2024-05-20,Life Cat Pouch - Salmon Adult,Makanan,11,50000,550000,QRIS,2,0,5,2024
+TX-20240118-008,2024-01-18,Frontline Plus Flea & Tick Treatment,Obat Hewan,4,250000,1000000,Tunai,3,2,1,2024
+TX-20240416-008,2024-04-16,Drontal Cat Dewormer,Obat Hewan,4,4435,17740,QRIS,3,0,4,2024
+TX-20240419-002,2024-04-19,Seresto Flea and Tick Collar for Dogs,Obat Hewan,7,50000,350000,QRIS,3,0,4,2024
+TX-20240528-005,2024-05-28,Life Cat Can - Kitten Salmon,Makanan,2,4435,8870,Transfer,2,1,5,2024
+TX-20240302-003,2024-03-02,Life Cat Tofu - Mango,Makanan,1,250000,250000,Transfer,2,1,3,2024
+TX-20241121-006,2024-11-21,Frontline Plus Flea & Tick Treatment,Obat Hewan,1,4435,4435,Tunai,3,2,11,2024
+TX-20240407-004,2024-04-07,Life Cat Pouch - Kitten Tuna,Makanan,14,4435,62090,Tunai,2,2,4,2024
+TX-20240616-004,2024-06-16,Trixie Cat Tunnel,Mainan,2,12024,24048,Tunai,1,2,6,2024
+TX-20240218-003,2024-02-18,Life Cat Pouch Dus,Makanan,1,55833,55833,Transfer,2,1,2,2024
+TX-20240513-007,2024-05-13,Trixie Cat Scratching Post,Mainan,8,4435,35480,Tunai,1,2,5,2024
+TX-20240915-006,2024-09-15,Life Cat Can - Tuna,Makanan,18,4435,79830,Tunai,2,2,9,2024
+TX-20241115-008,2024-11-15,Life Cat Pouch - Kitten Chicken,Makanan,2,250000,500000,QRIS,2,0,11,2024
+TX-20240404-002,2024-04-04,Rogz Utility Dog Leash - Medium,Aksesoris,16,4435,70960,Tunai,0,2,4,2024
+TX-20240401-009,2024-04-01,Kong Puppy Teething Stick,Mainan,3,50000,150000,Tunai,1,2,4,2024
+TX-20240421-007,2024-04-21,Life Cat Pouch - Kitten Tuna,Makanan,4,250000,1000000,Transfer,2,1,4,2024
+TX-20240604-004,2024-06-04,Nutri-Vet Multivitamin Chewable,Obat Hewan,5,4435,22175,QRIS,3,0,6,2024
+TX-20240328-006,2024-03-28,Kong Classic Dog Chew Toy,Mainan,19,12024,228456,QRIS,1,0,3,2024
+TX-20240330-003,2024-03-30,Life Cat Pouch - Kitten Salmon,Makanan,4,250000,1000000,Transfer,2,1,3,2024
+TX-20241130-006,2024-11-30,Life Cat Can - Kitten Tuna,Makanan,9,55833,502497,Tunai,2,2,11,2024
+TX-20240921-007,2024-09-21,Life Cat Pouch - Kitten Chicken,Makanan,7,55833,390831,Transfer,2,1,9,2024
+TX-20240310-002,2024-03-10,Life Cat Tofu - Mango,Makanan,3,4435,13305,QRIS,2,0,3,2024
+TX-20240509-005,2024-05-09,Trixie Cat Laser Pointer,Mainan,2,4435,8870,Tunai,1,2,5,2024
+TX-20240101-008,2024-01-01,Life Cat Pouch - Kitten Chicken,Makanan,18,12024,216432,QRIS,2,0,1,2024
+TX-20240608-004,2024-06-08,Life Cat Can - Tuna,Makanan,3,12024,36072,Tunai,2,2,6,2024
+TX-20240716-006,2024-07-16,Rogz Utility Dog Leash - Medium,Aksesoris,9,12024,108216,Transfer,0,1,7,2024
+TX-20241112-004,2024-11-12,Rogz Utility Dog Leash - Medium,Aksesoris,13,12024,156312,QRIS,0,0,11,2024
+TX-20241031-009,2024-10-31,Trixie Cat Tunnel,Mainan,19,50000,950000,QRIS,1,0,10,2024
+TX-20240302-004,2024-03-02,Life Cat Pouch Dus,Makanan,9,50000,450000,Tunai,2,2,3,2024
+TX-20240201-005,2024-02-01,Life Cat Pouch - Chicken Adult,Makanan,10,4435,44350,Tunai,2,2,2,2024
+TX-20240802-004,2024-08-02,Seresto Flea and Tick Collar for Dogs,Obat Hewan,17,4435,75395,QRIS,3,0,8,2024
+TX-20240612-003,2024-06-12,EzyDog Chest Plate Harness for Dogs,Aksesoris,1,4435,4435,Tunai,0,2,6,2024
+TX-20240426-008,2024-04-26,Kong Classic Dog Chew Toy,Mainan,11,50000,550000,QRIS,1,0,4,2024
+TX-20240313-003,2024-03-13,Life Cat Pouch - Chicken Adult,Makanan,7,130000,910000,QRIS,2,0,3,2024
+TX-20240313-004,2024-03-13,Life Cat Can - Tuna,Makanan,8,250000,2000000,QRIS,2,0,3,2024
+TX-20241003-007,2024-10-03,Life Cat Pouch - Kitten Salmon,Makanan,7,12024,84168,Transfer,2,1,10,2024
+TX-20240322-003,2024-03-22,EzyDog Chest Plate Harness for Dogs,Aksesoris,13,4435,57655,Tunai,0,2,3,2024
+TX-20240824-002,2024-08-24,Drontal Cat Dewormer,Obat Hewan,2,50000,100000,Transfer,3,1,8,2024
+TX-20240921-008,2024-09-21,Trixie Cat Scratching Post,Mainan,1,130000,130000,QRIS,1,0,9,2024
+TX-20240325-005,2024-03-25,Life Cat Pouch Dus,Makanan,3,50000,150000,QRIS,2,0,3,2024
+TX-20241114-004,2024-11-14,Rogz Utility Dog Leash - Medium,Aksesoris,19,4435,84265,QRIS,0,0,11,2024
+TX-20241024-004,2024-10-24,Rogz Utility Dog Leash - Medium,Aksesoris,5,130000,650000,Transfer,0,1,10,2024
+TX-20240828-003,2024-08-28,Trixie Cat Laser Pointer,Mainan,12,4435,53220,QRIS,1,0,8,2024
+TX-20240523-006,2024-05-23,Trixie Cat Laser Pointer,Mainan,18,4435,79830,Tunai,1,2,5,2024
+TX-20240120-006,2024-01-20,Life Cat Pouch - Chicken Adult,Makanan,19,50000,950000,Transfer,2,1,1,2024
+TX-20240128-007,2024-01-28,Kong Puppy Teething Stick,Mainan,10,12024,120240,Tunai,1,2,1,2024
+TX-20240104-005,2024-01-04,Life Cat Tofu - Macha,Makanan,3,12024,36072,Tunai,2,2,1,2024
+TX-20240714-006,2024-07-14,Seresto Flea and Tick Collar for Dogs,Obat Hewan,4,130000,520000,Transfer,3,1,7,2024
+TX-20241025-002,2024-10-25,Frontline Plus Flea & Tick Treatment,Obat Hewan,16,50000,800000,Tunai,3,2,10,2024
+TX-20240801-006,2024-08-01,Life Cat Pouch Dus,Makanan,13,4435,57655,Tunai,2,2,8,2024
+TX-20240314-004,2024-03-14,EzyDog Chest Plate Harness for Dogs,Aksesoris,16,4435,70960,Tunai,0,2,3,2024
+TX-20240724-005,2024-07-24,Life Cat Pouch - Salmon Adult,Makanan,4,50000,200000,Transfer,2,1,7,2024
+TX-20240611-002,2024-06-11,Life Cat Pouch - Kitten Tuna,Makanan,9,50000,450000,Tunai,2,2,6,2024
+TX-20240505-007,2024-05-05,Life Cat Tofu - Mango,Makanan,8,4435,35480,Tunai,2,2,5,2024
+TX-20241113-006,2024-11-13,Kong Classic Dog Chew Toy,Mainan,11,55833,614163,QRIS,1,0,11,2024
+TX-20240614-005,2024-06-14,Frontline Plus Flea & Tick Treatment,Obat Hewan,11,12024,132264,Transfer,3,1,6,2024
+TX-20240819-004,2024-08-19,Seresto Flea and Tick Collar for Dogs,Obat Hewan,9,4435,39915,QRIS,3,0,8,2024
+TX-20240413-003,2024-04-13,Kong Puppy Teething Stick,Mainan,4,130000,520000,QRIS,1,0,4,2024
+TX-20240102-007,2024-01-02,Trixie Cat Scratching Post,Mainan,3,12024,36072,Transfer,1,1,1,2024
+TX-20240423-004,2024-04-23,Nutri-Vet Multivitamin Chewable,Obat Hewan,3,55833,167499,Tunai,3,2,4,2024
