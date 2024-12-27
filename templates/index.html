@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Etalase Toko</title>
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Rekomendasi Penataan Etalase</h1>
+    <form id="transaction-form">
+      <label for="transactions">Masukkan Transaksi (pisahkan dengan koma):</label>
+      <textarea id="transactions" placeholder="Contoh: Life Cat Pouch Dus, Life Cat Tofu - Mango, dll"></textarea>
+      <button type="submit">Dapatkan Rekomendasi</button>
+    </form>
+    <div id="recommendations" class="hidden">
+      <h2>Rekomendasi:</h2>
+      <ul id="recommendation-list"></ul>
+    </div>
+  </div>
+  <script src="static/js/script.js"></script>
+</body>
+</html>
