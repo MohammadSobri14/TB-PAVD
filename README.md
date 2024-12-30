@@ -1,2 +1,3 @@
-# TB-PAVD
-Tugas Besar Praktikum Analisis dan Visualisasi Data Semester 5
+# TB-PAVD & DATA-MINING
+Tugas Besar Semester 5 Praktikum Analisis dan Visualisasi Data & Data Mining
+Prediksi Pembelian Petshop Menggunakan Algoritma Apriori
